@@ -4,5 +4,5 @@ title: Segnali
 {% assign last_post = site.posts[-1] %}
 
 <h2> {{ last_post.title }} </h2>
-<p> {{ last_post.date }} </p>
+<p> {{ last_post.date | date_to_string }} </p>
 <p> {{ last_post.body }} </p>
