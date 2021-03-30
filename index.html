@@ -1,9 +1,9 @@
 ---
 title: Segnali
 ---
-{% assign last_post = site.posts[-1] %}
+{% assign last_post = site.posts[0] %}
 
 <h2> {{ last_post.title }} </h2>
-<p> {{ last_post.date | date_to_string }} </p>
+<p style="text-align: end"> {{ last_post.date | date_to_string }} </p>
 <p> {{ last_post.excerpt }} </p>
-<p style="text-align" : end><a href= {{ last_post.url }}>Leggi tutto</a></p>
+<p style="text-align: end"><a href= {{ last_post.url }}>Leggi tutto</a></p>
