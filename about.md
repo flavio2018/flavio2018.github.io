@@ -4,4 +4,4 @@ title: About
 
 # About me
 
-Ciao mi chiamo Flavio.
+I am a creative programmer, gutarist, aspiring researcher and boyfriend to Fabiola.
