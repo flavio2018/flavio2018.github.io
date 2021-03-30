@@ -1,4 +1,8 @@
 ---
 title: Segnali
 ---
-Qui ci scrivo qualcosa.
+{% assign last_post = site.posts[-1] %}
+
+<h2> {{ last_post.title }} </h2>
+<p> {{ last_post.date }} </p>
+<p> {{ last_post.body }} </p>
