@@ -2,6 +2,6 @@
 title: About
 ---
 
-# About me
+## About me
 
 I am a creative programmer, gutarist, aspiring researcher and boyfriend to Fabiola.
