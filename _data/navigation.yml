@@ -1,6 +1,6 @@
 - name: Home
   link: /
-- name: About
-  link: /about.html
-- name: Latest posts
+- name: Cosa?
+  link: /cosa.html
+- name: Ultimi post
   link: /blog.html
