@@ -1,9 +1,9 @@
 <div class="center header" >
     <nav>
     {% for item in site.data.navigation %}
-        <span style="background-color: white"><a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a></span>
+        <span class="header-button"><a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a></span>
     {% endfor %}
     </nav>
 
-    <h1 style="color: white">Blog di Flavio</h1>
+    <h1>Blog di Flavio</h1>
 </div>
