@@ -14,8 +14,9 @@
 }
 
 .header {
-    background-color: #ffffcc; //#ccffcc
+    //background-color: #ffffcc; //#ccffcc
     //background-image: url('../../pictures/tile_gy.png');
+    background-image: url('../../pictures/mush_header.png');
 }
 
 .header-button {
@@ -25,8 +26,9 @@
 }
 
 #header-title {
+//2px 5.5px #669900, 
     font-family: sans-serif;
-    text-shadow: 1px 3px #007700, 2px 5.5px #669900, 3px 8px #cccc00;
+    text-shadow: 1px 3px #007700, 3px 8px #cccc00;
     color: #003300;
     font-size: 300%;
 }
