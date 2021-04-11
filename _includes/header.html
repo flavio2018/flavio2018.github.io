@@ -1,5 +1,5 @@
 <div class="center header" >
-    <div>
+    <div id="header-text-column">
         <nav>
         {% for item in site.data.navigation %}
             <span class="header-button"><a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a></span>
@@ -7,7 +7,7 @@
         </nav>
         <h1>Scritti emergenti</h1>
     </div>
-    <div>
+    <div id="header-img-column">
         <img src="/pictures/tree_birds.png"/>
     </div>
 </div>
