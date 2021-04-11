@@ -35,9 +35,8 @@
 }
 
 .header img {
-    float: right;
-    object-fit: contain;
-    width: 10%;
+    object-position: 90% 50%;
+    object-fit: none;
     border: 1px solid #ddd;
     border-radius: 4px;
     padding: 5px;
