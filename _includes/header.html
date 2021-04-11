@@ -1,10 +1,10 @@
 <div class="center header" >
     
-    <img src="/pictures/tree_birds.png"/>
     <nav>
     {% for item in site.data.navigation %}
         <span class="header-button"><a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a></span>
     {% endfor %}
     </nav>
+    <img src="/pictures/tree_birds.png"/>
     <h1>Scritti emergenti</h1>
 </div>
