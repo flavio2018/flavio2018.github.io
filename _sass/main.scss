@@ -26,17 +26,18 @@
     padding: 2px;
 }
 
-#header-title {
+.header h1 {
 //2px 5.5px #669900, 
+    position: relative;
     font-family: sans-serif;
     text-shadow: 1px 4.25px #007700, 3px 8px #cccc00;
     color: #003300;
     font-size: 300%;
 }
 
-#header-img {
+.header img {
+    float: right;
     vertical-align: middle;
-    align-content: end;
 }
 
 h1 {
