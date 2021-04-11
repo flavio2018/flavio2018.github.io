@@ -34,10 +34,13 @@
     font-size: 300%;
 }
 
-#header-img {
+.header img {
     float: right;
     vertical-align: baseline;
     width: 10%;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
 }
 
 h1 {
