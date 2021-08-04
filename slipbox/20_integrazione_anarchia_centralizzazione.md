@@ -1,0 +1,4 @@
+Una organizzazione politica ed economica alternativa a quella statale-capitalista-centralizzata deve, per esistere, trovare modi di interagire con il sistema economico e politico già esistente. Questo è probabilmente il motivo più importante per cui l'attivismo anarchico è, secondo me, una integrazione necessaria alla riflessione e allo studio della storia e delle teorie dell'anarchismo.
+
+Per individuare dei modi efficaci di integrazione tra attività di ispirazione anarchica e parti della società attuale è probabilmente prima utile stabilire quali siano i principi cui le attività di ispirazione anarchica debbano rifarsi. 
+[21_principi_anarchismo](21_principi_anarchismo.md)

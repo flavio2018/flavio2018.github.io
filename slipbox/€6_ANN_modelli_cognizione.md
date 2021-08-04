@@ -1,0 +1,1 @@
+Le reti neurali artificiali sono viste da una duplice prospettiva, nell'ambito della modellazione cognitiva: da un lato, come modelli emergentisti della cognizione, ispirati alle reti neuronali; dall'altro, come modelli di computazione alternativi a quello di Turing-Von Neumann.

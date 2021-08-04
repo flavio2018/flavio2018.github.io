@@ -1,0 +1,4 @@
+La matematica è un linguaggio per la produzione di conoscenza. 
+Molta parte della matematica riguarda la *rappresentazione*. La rappresentazione riguarda la manipolazione mentale di oggetti astratti. Come conseguenza di questo, possiamo dire che la matematica riguarda la costruzione di meccanismi.
+Il funzionamento di questi meccanismi viene ritenuto basato sulla *verità* delle asserzioni matematiche. Più in generale, potremmo riferirci a questa proprietà come alla *consistenza* delle asserzioni e delle creazioni matematiche astratte.
+Rispetto alla logica, la matematica ha più elementi di immaginazione.

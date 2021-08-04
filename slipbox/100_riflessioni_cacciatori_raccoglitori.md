@@ -6,7 +6,7 @@ Pensare a queste società allora diventa un modo per pensare un'alternativa alla
 
 Resta tuttavia da sciogliere il nodo su come poter concretamente realizzare un passaggio del genere[^integrazione], in una società industrializzata in cui non possiamo più fare a meno della tecnologia di cui disponiamo - una legge assoluta che regola il rapporto tra l'essere umano e le sue creazioni che ci ha portato fin qui. Uno dei filoni possibili è quello che si può porre sotto il cappello dell'*accelerazionismo*[^guariento], ideologia che (tra le altre cose) sostiene che le conoscienze tecnologiche e scientifiche moderne possano essere utilizzate in società organizzate secondo modelli produttivi diversi da quello attuale.
 
-[^carli]: [[@carli_leta_2021]]
+[^carli]: [@carli_leta_2021](@carli_leta_2021.md)
 [^guariento]: [@guariento_dark_2019](@guariento_dark_2019.md)
-[^integrazione]: [[20_integrazione_anarchia_centralizzazione]]
-[^produzione]: [[22_società_preagricole_federazione]]
+[^integrazione]: [20_integrazione_anarchia_centralizzazione](20_integrazione_anarchia_centralizzazione.md)
+[^produzione]: [22_società_preagricole_federazione](22_societ%C3%A0_preagricole_federazione.md)

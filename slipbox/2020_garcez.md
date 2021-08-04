@@ -1,0 +1,7 @@
+Neurosymbolic AI: The 3rd wave
+---
+The paper has some interesting insight at the crossing-point between symbolic reasoning in artificial intelligence and explainability, looking at the next ten years goals of the AI community. The authors have a perspective and language which is possibly closer to GOFAI (e.g. first and second order logic reference), but they see them from the perspective of searching reconciliation with DL. 
+- p.8 In general, they offer a reconciling perspective with GOFAI, aiming at reconsidering their tools in the context of symbolic DL ("neurosymbolic AI"). This approach is perhaps in contrast with the one of [2021_santoro](2021_santoro.md).
+- p.16 Here the authors mention that the efficacy of "distributed approximate reasoning" of Differentiable Neural Computer-like models ([2021_santoro](2021_santoro.md)) is limited. They see the external memory of DNCs as a symbolic system for reasoning, which the neural core interacts with. The reasoning is seen as "approximate" because representations are not discrete and are learned. 
+- p.18 Two main areas of application of "neurosymbolic AI" are NLU ([2021_santoro](2021_santoro.md)) and planning.
+- p.24 Daniel #Kahneman pointed out that a further layer of system 2 reasoning is needed in DL systems.

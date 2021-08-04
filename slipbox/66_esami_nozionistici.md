@@ -1,0 +1,3 @@
+Gli esami a volte non hanno molto senso come metodo di valutazione, e forse ormai molti dei soggetti coinvolti nei processi di formazione concorderebbero con questa affermazione. Perché è così? Uno dei motivi è che gli esami non riflettono adeguatamente le situazioni reali in cui avremo *bisogno di conoscenza*.
+
+Ossia: nella vita, se faremo un qualsiasi lavoro in cui sia utile padroneggiare conoscenza in un certo ambito, probabilmente non considereremo questa conoscenza in modo "monolitico", pensando all'accesso ad essa come se stessimo prendendo un oggetto da una grande cassettiera divisa in centinaia di scomparti. Il tipico esame di verifica delle nozioni porta invece a concepire il rapporto con la conoscenza secondo questo paradigma.
