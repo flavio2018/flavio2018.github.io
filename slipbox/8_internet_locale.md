@@ -4,4 +4,4 @@ Il modo più semplice di immaginare un utilizzo locale delle tecnologie Internet
 
 Una eccezione significativa è proprio quella delle e-mail che si basano su un protocollo completamente decentralizzato, per cui il sistema di comunicazione è agnostico rispetto allo specifico programma usato per gestire la propria casella di posta elettronica. Ecco perché possiamo scrivere una e-mail da GMail e inviarla ad un utente di Outlook che, a sua volta, può inoltrarla a un utente di Thunderbird.
 
-[7_internet_globale](7_internet_globale.md)
+[9_internet_federato](9_internet_federato.md)

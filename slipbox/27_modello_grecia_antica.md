@@ -2,7 +2,7 @@ La grecia delle poleis (e quella presocratica, da Nietzsche in poi) sono state c
 
 Una differenza importante tra la società greca antica e altre società agricole, evidenziata anche da Cassano nel [*Pensiero meridiano (p. 56)*](@cassano_pensiero_1996.md), è la sua natura federata. In un certo modo, il sistema politico greco è portato da Cassano come esempio di convivenza possibile tra accentramento e federazione ([20_integrazione_anarchia_centralizzazione](20_integrazione_anarchia_centralizzazione.md)). 
 
-Resta la natura centralizzata della singola *polis*, che produce per sé e per il commercio e mantiene la sua identità culturale; resta la natura stanziale della civiltà agricola ([20_integrazione_anarchia_centralizzazione](20_integrazione_anarchia_centralizzazione.md)). Tuttavia, l'apertura e la capacità di dialogo e di contaminazione tra diverse identità è più forte che in altre società agricole. 
+Resta la natura centralizzata della singola *polis*, che produce per sé e per il commercio e mantiene la sua identità culturale; resta la natura stanziale della civiltà agricola ([22_società_preagricole_federazione](22_società_preagricole_federazione.md)). Tuttavia, l'apertura e la capacità di dialogo e di contaminazione tra diverse identità è più forte che in altre società agricole. 
 
 Non va ovviamente commesso l'errore di prendere l'antica Grecia a 
 modello pratico di sviluppo della società contemporanea, date le profonde differenze tra i due tempi storici.

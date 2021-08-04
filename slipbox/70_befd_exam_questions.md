@@ -21,7 +21,7 @@ The main result we use to compute the effective degrees of freedom for the chi-s
 Knowing the effective degrees of freedom, we can build something similar to confidence intervals for inference about the value of the response of a non-parametric model. However, this interval in which the true response will fall with a given probability $p$, cannot be considered a proper confidence interval. Indeed,  differently from confidence intervals, two bandwidths (a positive and negative one) will be created around the prediction, of two different sizes, due to the fact that the hypothesis of normality of the residuals is not guaranteed to hold. in any case, even if it did, the interval computed with effective degrees of freedom could only be considered a confidence interval locally, for the point where it was computed for, and not valid for the whole interval of values that the model gives an estimate for. 
 
 5. *Describe advantages and drawbacks of the KNN approach for a regression problem.*
-[56_befd_effective_dof](56_befd_effective_dof.md)
+[46_befd_KNN](46_befd_KNN.md)
 ==Assume to choose to model a function using the mean of the possible values that the function can have in a given point $x$. This approach is reasonable if we consider that using an error metric that averages the errors (such as MSE), the mean value of the predictions corresponding to a given point is the best result we can get.==
 The KNN approach to solve a regression problem does not require to actually train or fit a model to data. Indeed, this can be called a memory-based approach, since it consists in estimating the value of a function $f(x)$ computing the mean of the known function values of the $k$ closest points to $x$ in the dataset. 
 The approach is certainly very simple and does not require to spend training time. If the known samples are many, however, this method can become very memory demanding. The method can work poorly if the data are very sparse, or if we want to compute an estimate in an interval where we don't have any known value, since the "closest" known values would probably be completely misleading and the estimate would be strongly influenced by that.
@@ -32,7 +32,7 @@ In a linear regression model we want to estimate the values of a function assumi
 ==We can also test a more general significance of the model using a Fisher's F test, having as null hypothesis that all beta coefficients are zero; in this case, a value of the statistic above 4 tells us that at least one variable is significant. The F test is a sort of signal vs noise ratio test, since we have at the numerator the ESS and at the denominator the RSS.==
 
 7. *Explain how local regression is structured.*
-[56_befd_effective_dof](56_befd_effective_dof.md)
+[51_befd_local_regression](51_befd_local_regression.md)
 The idea behind local regression is to build a local estimator of a function building on the first order Taylor approximation of the function in a given point: $f(x) = f(x_0) + f'(x_0)(x-x_0) + \epsilon$.
 Building on this result, the basic idea is to compute *local approximations* of the function $f$, computing the Taylor approximation of the function centered in each $x_k$ point we have in the dataset. Since we don't know the function, we will need to estimate the value of the terms $f(x_0) := \alpha$ and $f'(x_0) := \beta$, where $x_0$ is the value which we want to estimate the corresponding function value of. We will thus want to minimize the sum of squared difference between the estimate of the function computed with the Taylor approximation centered in the point $x_0$ and the one we know, for every point $x_k$ in our dataset. Furthermore, every squared difference will be weighted by a function $w_h(x_k-x_0)$, called kernel, which will assign more weight to approximations computed with points closer to $x_0$ (they will be likely provide a more reliable estimate). A common choice for the $w$ function is the Gaussian, although the most important choice is the parameter $h$ that regulates the *width* of the interval around the point $x_0$ that will receive higher weights. A big value of the $h$ parameter increases the bias, whereas smaller values increase the variance of the local regression estimator.
 
@@ -54,10 +54,10 @@ Moving average models ==use instead the multiple linear regression framework to 
 $y_t=\beta_{t-1} \epsilon_{t-1} + ... + \beta_1 \epsilon_1 + \beta_0 + \epsilon_t$==.
 ==These kind of models allow to take into account the effect of unobserved shocks, reflected in the past prediction errors, on the current values of the series.==
 The most important thing to keep in mind when working with ARMA models is that they deal with stationary time series, therefore the series is made stationary if it's not through differencing. The third ingredient of ARIMA models is thus integration of the values of the series, i.e. subtracting to each value of the time series the past value distant k steps from it: $y'_t = y_t - y_{t-k}$. The integration can also be applied more than once, in which case we talk about second order integration of the series. This is an alternative strategy to deal with ~~seasonal~~ trending behaviour of time series.
-An additional ARIMA model can be used to deal with seasonality [56_befd_effective_dof](56_befd_effective_dof.md).
+An additional ARIMA model can be used to deal with seasonality [73_befd_arima](73_befd_arima.md).
 
 10. *Describe the structure of the GAM model and how is it fit.*
-[56_befd_effective_dof](56_befd_effective_dof.md)
+[59_befd_GAMs](59_befd_GAMs.md)
 - generalization multiple linear regression model
 - procedure updating smoothers 
 - maintaining additivity
@@ -107,7 +107,7 @@ As deviance includes a measure of the log-likelihood of the model's parameter gi
 
 15. *Describe the structure of the interpolating splines.*
 
-[56_befd_effective_dof](56_befd_effective_dof.md)
+[54_befd_splines](54_befd_splines.md)
 
 Splines are composite functions made up of fragments of continuously differentiable functions that are connected in specific points of the domain called *knots*. Splines can be used to flexibly model an unknown function, usually choosing polynomials as basic components of the spline.
 
@@ -120,7 +120,7 @@ The last condition characterizes ==natural cubic== splines, and is needed to com
 
 16. *Explain the intuition behind the Gradient Boosting.*
 
-[56_befd_effective_dof](56_befd_effective_dof.md)
+[64_befd_gradient_boosting](64_befd_gradient_boosting.md)
 
 - Gradient Boosting = gradient descent + boosting
 

@@ -8,7 +8,7 @@ Pratiche riconducibili a questa descrizione possono comunque essere individuate 
 Un altro studioso fortemente interessato al tema è stato il giurista Stefano Rodotà[^rodotà], che in una *lectio* tenuta pubblicamente al festival "Conversazioni sull'uomo" di Pistoia delineò intrecci interessanti tra gli strumenti giuridici tradizionali e la nozione di beni comuni[^lectio].
 
 [^lectio]: [94_lectio_rodotà_beni_comuni](94_lectio_rodotà_beni_comuni.md)
-[^homo]: [94_lectio_rodotà_beni_comuni](94_lectio_rodotà_beni_comuni.md)
+[^homo]: [@cassano_homo_2004](@cassano_homo_2004.md)
 [^padova]: https://www.benicomunipadova.it/osservazioni-sulla-bozza-del-comune/
-[^pensiero]: [94_lectio_rodotà_beni_comuni](94_lectio_rodotà_beni_comuni.md)
-[^rodotà]: [94_lectio_rodotà_beni_comuni](94_lectio_rodotà_beni_comuni.md)
+[^pensiero]: [@cassano_pensiero_1996](@cassano_pensiero_1996.md)
+[^rodotà]: [@rodota_beni_2018](@rodota_beni_2018.md)

@@ -2,7 +2,7 @@
 
 C'è un interessante e fondamentale punto in comune tra la narrazione di Haraway ([@haraway_chthulucene_2016](@haraway_chthulucene_2016.md)) e le teorie di Gauntlett.
   
-Entrambi considerano il fare, la creatività pratica, una maniera per creare relazioni ([@haraway_chthulucene_2016](@haraway_chthulucene_2016.md)). 
+Entrambi considerano il fare, la creatività pratica, una maniera per creare relazioni ([€27_creatività_progresso](€27_creatività_progresso.md)). 
 
 Gauntlett evidenzia l'aspetto più psicologico e sociologico del fenomeno, ponendo le basi (e forse costruendo su quelle poste ancor prima da Richard Sennet).  
   

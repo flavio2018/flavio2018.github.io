@@ -1,14 +1,14 @@
 Parte di [3_outline_conoscenza](3_outline_conoscenza.md).
 ## C. Produzione di conoscenza
- - [3_outline_conoscenza](3_outline_conoscenza.md)
- - [3_outline_conoscenza](3_outline_conoscenza.md)
+ - [€27_creatività_progresso](€27_creatività_progresso.md)
+ - [26_lavoro_intellettuale_creativo](26_lavoro_intellettuale_creativo.md)
 
 - Metodo scientifico e comunità scientifica
-	- [3_outline_conoscenza](3_outline_conoscenza.md)
+	- [65_scientific_community](65_scientific_community.md)
 
 - Rapporto tra metodo scientifico e società capitalista consumista.
-	 - [3_outline_conoscenza](3_outline_conoscenza.md)
-	 - [3_outline_conoscenza](3_outline_conoscenza.md)
+	 - [€10_progresso_privatizzazione](€10_progresso_privatizzazione.md)
+	 - [18_conoscenza_industriale_anarchica](18_conoscenza_industriale_anarchica.md)
 
 - Rapporto materializzato nelle istituzioni scientifiche
-	 - [3_outline_conoscenza](3_outline_conoscenza.md)
+	 - [15_progetto_accesso_ricerca](15_progetto_accesso_ricerca.md)

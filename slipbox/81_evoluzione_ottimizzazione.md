@@ -10,7 +10,7 @@ Un altro spunto di confronto utile potrebbe essere l'applicazione delle ANN nell
 
 Un altro approccio è quello di confrontare le configurazioni emergenti nelle ANN dopo l'addestramento e confrontarle con le strutture esistenti in altri tipi di reti naturali, incluse quelle cerebrali[^zambra].
 
-[^emergenza]: [folding-funnel.png](folding-funnel.png.md)
-[^evo-algo]: [folding-funnel.png](folding-funnel.png.md)
-[^rise]: [folding-funnel.png](folding-funnel.png.md)
-[^zambra]: [folding-funnel.png](folding-funnel.png.md)
+[^emergenza]: [72_ottimizzazione_emergenza](72_ottimizzazione_emergenza.md)
+[^evo-algo]: [@wiki_evolutionary_2021](@wiki_evolutionary_2021.md)
+[^rise]: [@nature_rise_2021](@nature_rise_2021.md)
+[^zambra]: [@zambra_emergence_2020](@zambra_emergence_2020.md)

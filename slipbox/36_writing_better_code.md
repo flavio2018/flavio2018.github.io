@@ -7,34 +7,34 @@
 ## *How* to write better code?
 ### 1. Python features
 - [83_python_types_variables](83_python_types_variables.md)
-- [83_python_types_variables](83_python_types_variables.md)
+- [48_python_setattr_slots](48_python_setattr_slots.md)
 
 
 ### 2. Maintainability
 #### 2.1 Jupyter Notebooks
-[83_python_types_variables](83_python_types_variables.md)
+[38_jupyter_notebooks_best_practices](38_jupyter_notebooks_best_practices.md)
 
 #### 2.2 Structuring code
 -  writing [structured](https://docs.python-guide.org/writing/structure/) code: use [modules](https://docs.python.org/3/tutorial/modules.html) and packages, also in combination with Notebooks
 
 #### 2.3 Type annotation
-[83_python_types_variables](83_python_types_variables.md)
+[84_types_programming](84_types_programming.md)
 
 #### 2.4 Testing
 - adopting software development best practices 
-	- unit testing → [83_python_types_variables](83_python_types_variables.md)
+	- unit testing → [86_how_write_unit_tests](86_how_write_unit_tests.md)
 	- integration testing
 
 #### 2.5 Refactoring
-[83_python_types_variables](83_python_types_variables.md)
+[47_abstractions_programming](47_abstractions_programming.md)
 
 
 ### 3. Programming paradigms
 *AKA learning other ways to think*
 
 #### 3.1 Object oriented
-[83_python_types_variables](83_python_types_variables.md)
-[83_python_types_variables](83_python_types_variables.md): A set of rules about writing good (production) Machine Learning systems written by a Google ML Engineer.
+[40_object_orientation](40_object_orientation.md)
+[@zinkevich_rules_nodate](@zinkevich_rules_nodate.md): A set of rules about writing good (production) Machine Learning systems written by a Google ML Engineer.
 
 #### 3.2 Functional
 - map + filter + reduce
@@ -43,12 +43,12 @@
 
 
 ### 4. Style
-[83_python_types_variables](83_python_types_variables.md)
+[37_python_code_style](37_python_code_style.md)
 
 
 ### 5. Mastering tools
-[83_python_types_variables](83_python_types_variables.md)
-[83_python_types_variables](83_python_types_variables.md)
+[76_mastering_tools_programming](76_mastering_tools_programming.md)
+[96_missing_semester](96_missing_semester.md)
 
 
 --- 

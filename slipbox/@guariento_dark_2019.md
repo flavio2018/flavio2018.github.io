@@ -28,8 +28,8 @@ abstract:
 
 Testo che esplora la possibilità di "reintegrare" la natura nella vita individuale come modo per "restare a contatto con il problema": [@monbiot_feral_2013](@monbiot_feral_2013.md)
 
-[^complessità]: [@monbiot_feral_2013](@monbiot_feral_2013.md)
-[^comprendere]: [@monbiot_feral_2013](@monbiot_feral_2013.md)
-[^haraway]: [@monbiot_feral_2013](@monbiot_feral_2013.md)
-[^ingold]: [@monbiot_feral_2013](@monbiot_feral_2013.md)
-[^robutti]: [@monbiot_feral_2013](@monbiot_feral_2013.md)
+[^complessità]: [67_complessità](67_complessità.md)
+[^comprendere]: [61_che_vuol_dire_comprendere](61_che_vuol_dire_comprendere.md)
+[^haraway]: [@haraway_chthulucene_2016](@haraway_chthulucene_2016.md)
+[^ingold]: [@ingold_lines_2007](@ingold_lines_2007.md)
+[^robutti]: [@robutti_bussola_2021](@robutti_bussola_2021.md)

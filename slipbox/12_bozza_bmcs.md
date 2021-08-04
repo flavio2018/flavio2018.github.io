@@ -77,4 +77,4 @@ References
 14. Kumaran, Dharshan, Demis Hassabis, e James L. McClelland. «What Learning Systems Do Intelligent Agents Need? Complementary Learning Systems Theory Updated». _Trends in Cognitive Sciences_ 20, n. 7 (luglio 2016): 512–34. [https://doi.org/10.1016/j.tics.2016.05.004](https://doi.org/10.1016/j.tics.2016.05.004).
 
 [^bengio]: [@bengio_deep_2021](@bengio_deep_2021.md)
-[^silver]: [@bengio_deep_2021](@bengio_deep_2021.md)
+[^silver]: [@silver_mastering_2017](@silver_mastering_2017.md)

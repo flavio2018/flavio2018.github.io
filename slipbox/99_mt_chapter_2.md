@@ -4,4 +4,4 @@ Sigmoid changed to LeakyReLU[^glorot]
 - [ ] implement/use implementation of prioritized replay memory[^schaul]
 
 [^glorot]: [@glorot_understanding_2010](@glorot_understanding_2010.md)
-[^schaul]: [@glorot_understanding_2010](@glorot_understanding_2010.md)
+[^schaul]: [@schaul_prioritized_2016](@schaul_prioritized_2016.md)

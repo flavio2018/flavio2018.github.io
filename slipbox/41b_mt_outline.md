@@ -30,7 +30,7 @@
 	- Replay memory
 	- Curriculum learning?
 
-[€15_what_anthropological_approach_about](€15_what_anthropological_approach_about.md)
+[58_mt_learning_framework](58_mt_learning_framework.md)
 
 ## 4. Experiments & results
 
@@ -45,6 +45,6 @@ From easiest to hardest:
 - 3.1
 - 2.2
 
-[^2]: [€15_what_anthropological_approach_about](€15_what_anthropological_approach_about.md)
-[^3]: [€15_what_anthropological_approach_about](€15_what_anthropological_approach_about.md)
-[^dqn]: [€15_what_anthropological_approach_about](€15_what_anthropological_approach_about.md)
+[^2]: [98_mt_chapter_1](98_mt_chapter_1.md)
+[^3]: [99_mt_chapter_2](99_mt_chapter_2.md)
+[^dqn]: [103_mt_deep_qlearning](103_mt_deep_qlearning.md)

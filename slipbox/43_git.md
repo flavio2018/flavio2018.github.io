@@ -7,7 +7,7 @@ Git (or any other Version Control Software) is a necessary tool to manage differ
 
 Several different workflows [already exist](https://dev.to/hardkoded/how-to-organize-your-git-branches-4dci), but they are generally intended for more traditional development needs than "data science" ones; developing a workflow for such development scenarios is still [an open question](https://resources.github.com/downloads/development-workflows-data-scientists.pdf).
 
-[@chacon_pro_2014](@chacon_pro_2014.md)
+[44_workflow](44_workflow.md)
 
 I will need to know better the git tool in order to leverage its potential in helping implementing a development workflow. 
 
@@ -22,7 +22,7 @@ The key point is *when* to commit: too rare commits tend to include lots of chan
 1. they're not useful if you want to *partially* roll back changes you did in that commit;
 2. they're hard to understand from the outside or after some time; in particular, it's hard to write a good commit message for that commit ([here a post on why it's important](https://chris.beams.io/posts/git-commit/)).
 
-[@chacon_pro_2014](@chacon_pro_2014.md)
+[97_good_commits_messages](97_good_commits_messages.md)
 
 ## Forking
 [Forking on GitHub Guides](https://guides.github.com/activities/forking/)

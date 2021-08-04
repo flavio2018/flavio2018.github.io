@@ -7,7 +7,7 @@
 
 ---
 
-In the agent-based setting described so far, the most natural choice for a learning framework is that of reinforcement learning. This kind of learning algorithms have been applied for a long time to problems in the fields of artificial intelligence and robotics, obtaining more recently impressive results in the area of games learning ([@mnih_human-level_2015](@mnih_human-level_2015.md), [@mnih_human-level_2015](@mnih_human-level_2015.md)) thanks to the effective adaptation of reinforcement learning algorithms to deep learning settings.
+In the agent-based setting described so far, the most natural choice for a learning framework is that of reinforcement learning. This kind of learning algorithms have been applied for a long time to problems in the fields of artificial intelligence and robotics, obtaining more recently impressive results in the area of games learning ([@mnih_human-level_2015](@mnih_human-level_2015.md), [@silver_mastering_2017](@silver_mastering_2017.md)) thanks to the effective adaptation of reinforcement learning algorithms to deep learning settings.
 
 ### Markov Decision Processes
 Reinforcement learning settings usually involve one *agent* situated in an *environment* in which it can perform some *actions*. The environment will change it *state* as a result of the agent's actions, and the agent will also receive a (positive or negative) *reward* based on the outcome of its action in a specific environment state. 
@@ -22,7 +22,7 @@ The fact that the states visited by the agent in previous timesteps and the acti
 
 It is worth noticing that the MDPs are a very general and powerful tool to describe goal-directed decision making problems:
 
-> The MDP framework is a considerable abstraction of the problem of goal-directed learning from interaction. It proposes that whatever the details of the sensory, memory, and control apparatus, and whatever objective one is trying to achieve, any problem of learning goal-directed behavior can be reduced to three signals passing back and forth between an agent and its environment: one signal to represent the choices made by the agent (the actions), one signal to represent the basis on which the choices are made (the states), and one signal to define the agent’s goal (the rewards). [@mnih_human-level_2015](@mnih_human-level_2015.md)
+> The MDP framework is a considerable abstraction of the problem of goal-directed learning from interaction. It proposes that whatever the details of the sensory, memory, and control apparatus, and whatever objective one is trying to achieve, any problem of learning goal-directed behavior can be reduced to three signals passing back and forth between an agent and its environment: one signal to represent the choices made by the agent (the actions), one signal to represent the basis on which the choices are made (the states), and one signal to define the agent’s goal (the rewards). [@sutton_reinforcement_2018](@sutton_reinforcement_2018.md)
 
 ![RL](file:///media/shift97/My%20Passport/Flavio/Unipd/Tesi/figures/reinforcement_learning.png)
 *The agent–environment interaction in a Markov decision process.*
@@ -43,7 +43,7 @@ For each state-action pair, $q_*$ defines the value as the sum of the next futur
 $q_*(s,a) = \mathbb{E}[R_{t+1} + \gamma v_*(S_{t+1}) | S_t=s, A_t=a]$.
 
 ### Q-Learning
-One of the first reinforcement learning algorithms to have been adapted to the deep learning setting is Q-Learning ([@mnih_human-level_2015](@mnih_human-level_2015.md), [@mnih_human-level_2015](@mnih_human-level_2015.md)). This algorithm is, in its original form, a model-free and off-policy reinforcement learning algorithm, which means that it does not rely on a model of the environment, and that the policy function is not directly modeled by the algorithm but is rather implicit in the creation of a state-action value function called *Q-function*.
+One of the first reinforcement learning algorithms to have been adapted to the deep learning setting is Q-Learning ([@watkins_q-learning_1992](@watkins_q-learning_1992.md), [@sutton_reinforcement_2018](@sutton_reinforcement_2018.md)). This algorithm is, in its original form, a model-free and off-policy reinforcement learning algorithm, which means that it does not rely on a model of the environment, and that the policy function is not directly modeled by the algorithm but is rather implicit in the creation of a state-action value function called *Q-function*.
 
 The core idea behind the algorithm is that trying all possible actions in every state over many episodes, the agent can ultimately learn to estimate the state-action value function for each state-action pair, based on the reward received when it makes each action, and its estimate of the value of the state it reaches. The main theoretical result behind the algorithm states that it will converge to the optimal Q-function if it will be given the possibility to experience every possible state-action pair virtually infinitely many times. *However, this is considered a weak condition, since...*
 

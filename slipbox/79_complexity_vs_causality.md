@@ -7,7 +7,7 @@ The structured probabilistic approach is deeply rooted in the formal study of ca
 On the other hand, the connectionist or emergentist approach represent a bottom-up approach to the understanding of cognitive processes, trying to figure out what are the conditions under which such processes *emerge*[^complex].
 
 [^bayes]: [€4_modelli_bayesiani_conoscenza](€4_modelli_bayesiani_conoscenza.md)
-[^causality]: [€4_modelli_bayesiani_conoscenza](€4_modelli_bayesiani_conoscenza.md)
-[^top]: [€4_modelli_bayesiani_conoscenza](€4_modelli_bayesiani_conoscenza.md)
-[^pgm]: [€4_modelli_bayesiani_conoscenza](€4_modelli_bayesiani_conoscenza.md)
-[^complex]: [€4_modelli_bayesiani_conoscenza](€4_modelli_bayesiani_conoscenza.md)
+[^causality]: [@pearl_causality_2000](@pearl_causality_2000.md)
+[^top]: [€34_top_down_bottom_up_1](€34_top_down_bottom_up_1.md)
+[^pgm]: [@koller_probabilistic_2009](@koller_probabilistic_2009.md)
+[^complex]: [67_complessità](67_complessità.md)

@@ -25,7 +25,7 @@
 ---
 
 ## Visualization of agent's behaviour
-![training_monitoring_tensorboard.png](training_monitoring_tensorboard.png.md)
+![model_implementation_v1.png](model_implementation_v1.png.md)
 
 ---
 ## Systematic testing

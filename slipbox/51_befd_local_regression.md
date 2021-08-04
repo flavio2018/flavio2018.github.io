@@ -29,4 +29,4 @@ and *are not* to be considered confidence intervals, due to the fact that the bi
 
 The local linear regression (with fixed bandwidth) can be applied also in the 2-dimensional setting. Here, the linear problem which could be solved analytically in the mono-dimensional case can now be solved with a matrix operation.
 
-[46_befd_KNN](46_befd_KNN.md)
+[54_befd_splines](54_befd_splines.md)

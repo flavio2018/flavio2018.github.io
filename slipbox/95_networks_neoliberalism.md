@@ -8,5 +8,5 @@ Digging further on this line of research could lead to
 3) to unveil the ideological foundations of both disciplines.
 
 [^arthur]: [@arthur_foundations_2021](@arthur_foundations_2021.md)
-[^ottimizzazione]: [@arthur_foundations_2021](@arthur_foundations_2021.md)
-[^pasquinelli]: [@arthur_foundations_2021](@arthur_foundations_2021.md)
+[^ottimizzazione]: [72_ottimizzazione_emergenza](72_ottimizzazione_emergenza.md)
+[^pasquinelli]: [@pasquinelli_how_2021](@pasquinelli_how_2021.md)

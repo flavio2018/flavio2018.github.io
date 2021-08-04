@@ -7,5 +7,5 @@ The proposed phases are:
 - addition of signs on the substrate after some time  
 - assigning meaning to features of a sign.
 
-[@derrico_number_2018](@derrico_number_2018.md)
-[@derrico_number_2018](@derrico_number_2018.md)
+[€15_what_anthropological_approach_about](€15_what_anthropological_approach_about.md)
+[€23_symbolic_creation_cultural_exaptation](€23_symbolic_creation_cultural_exaptation.md)

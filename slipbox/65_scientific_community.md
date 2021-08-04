@@ -8,6 +8,6 @@ The forces that influence this process can be somewhat surprising and counterint
 In a recent lecture, Aaron Clause showed how the dynamics of what happens in academia can be described in terms of network science in light of the idea of prestige[^clause].
 
 [^clause]: [@clause_networks_2021](@clause_networks_2021.md)
-[^complexity]: [@clause_networks_2021](@clause_networks_2021.md)
-[^mcmahan]: [@clause_networks_2021](@clause_networks_2021.md)
-[^thompson]: [@clause_networks_2021](@clause_networks_2021.md)
+[^complexity]: [67_complessità](67_complessità.md)
+[^mcmahan]: [@mcmahan_creative_2021](@mcmahan_creative_2021.md)
+[^thompson]: [@thompson_science_2017](@thompson_science_2017.md)

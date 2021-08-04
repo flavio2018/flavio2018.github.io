@@ -20,9 +20,9 @@ L'assunto alla base dell'utilizzo degli algoritmi di deep learning nelle neurosc
 
 Due riferimenti utili sono
 - [@negrotti_making_1991](@negrotti_making_1991.md)
-- [@negrotti_making_1991](@negrotti_making_1991.md)
+- [@cichy_deep_2019](@cichy_deep_2019.md)
 
- [^strumento]: [@negrotti_making_1991](@negrotti_making_1991.md)
- [^arthur]: [@negrotti_making_1991](@negrotti_making_1991.md)
- [^complessità]: [@negrotti_making_1991](@negrotti_making_1991.md)
- [^samuel]: [@negrotti_making_1991](@negrotti_making_1991.md)
+ [^strumento]: [35_computer_strumento_sperimentale](35_computer_strumento_sperimentale.md)
+ [^arthur]: [@arthur_algorithms_2020](@arthur_algorithms_2020.md)
+ [^complessità]: [67_complessità](67_complessità.md)
+ [^samuel]: [@samuel_studies_1959](@samuel_studies_1959.md)

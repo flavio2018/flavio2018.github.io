@@ -2,4 +2,4 @@ Un'ipotesi scientifica può essere, a volte, rappresentata in un modello computa
 
 ---
 
-For a philosophical review of the topic, see: [€1_modelli_interpretabilità_conoscenza](€1_modelli_interpretabilità_conoscenza.md)
+For a philosophical review of the topic, see: [@gelfert_how_2016](@gelfert_how_2016.md)

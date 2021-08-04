@@ -26,4 +26,4 @@ where $N$ is the matrix of basis function values corresponding to all observatio
 
 The solution to the problem depends of course on the parameter $\lambda$, which can be selected using $k$-fold CV or information criteria.
 
-[51_befd_local_regression](51_befd_local_regression.md)
+[56_befd_effective_dof](56_befd_effective_dof.md)
