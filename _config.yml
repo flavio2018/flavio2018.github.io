@@ -18,7 +18,7 @@ defaults:
     values:
       layout: "default"
   - scope:
-      path: ""
-      type: "slipbox"
+      path: "slipbox"
+      type: "posts"
     values:
       layout: "post"
