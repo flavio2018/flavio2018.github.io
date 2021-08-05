@@ -89,7 +89,7 @@ The second class of methods attempts to take into account model complexity and a
 	- analysis of residuals
 - Durbin-Watson test
 - $R^2_{adj} = 1 - {(1-R^2)(n-1) \over (n-k-1)}$
-- $\tilde R^2 = {{SSE_1 - SSE_2} \over SSE_1}$  for nested models.
+- \\(\tilde R^2 = {{SSE_1 - SSE_2} \over SSE_1}\\)  for nested models.
 
 13. *Explain why it is necessary to find a trade-off between bias and variance.*
 
