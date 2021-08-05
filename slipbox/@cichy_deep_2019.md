@@ -15,4 +15,4 @@ abstract: Artificial deep neural networks (DNNs) initially inspired by the brain
 - "A second perspective is that appearance is deceptive, and DNNs are effectively used in the same way as traditional mathematical–theoretical models. After all, DNNs are fundamentally defined by a handful of parameters set _a priori_, such as architecture, training material, training procedure, and objective. These variables directly refer to specific phenomena in the world, the model is thus transparent and has explanatory power."
 - "Note also that complex (and thus immediately opaque) models might be inevitable for modelling complex phenomena such as human behaviour and brain activity that depend on large amounts of world knowledge that cannot be easily summarised."
 
-[^ott_em]: [[72_ottimizzazione_emergenza]]
+[^ott_em]: [72_ottimizzazione_emergenza](72_ottimizzazione_emergenza.md)

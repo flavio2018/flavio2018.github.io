@@ -10,7 +10,7 @@ abstract:
 ## 1. Introduction
 -   _p.1_ In this article, written for the 30th anniversary of the Cognitive Science Society, McClelland reviews the history of the concept of emergence in Cognitive Science, bringing a number of examples of this idea both in the discipline and in other fields.
     
--   _p.2_ An early perspective on the idea of emergence by G.H. Lewes is reported by McClelland. This perspective contrasts emergence to “resultance” (the result of sum or differences between parts), an idea which recalls the concept of olobiomes introduced by Donna Haraway in Chthulucene. [[€28_emergentismo_olobionti]]
+-   _p.2_ An early perspective on the idea of emergence by G.H. Lewes is reported by McClelland. This perspective contrasts emergence to “resultance” (the result of sum or differences between parts), an idea which recalls the concept of olobiomes introduced by Donna Haraway in Chthulucene. [€28_emergentismo_olobionti](€28_emergentismo_olobionti.md)
 
 ## 2. The generality of emergence in nature
 

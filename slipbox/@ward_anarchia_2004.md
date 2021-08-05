@@ -87,7 +87,7 @@
 -   _p.109_ Roel van Duijn, leader del movimento olandese dei Kabouters, aveva evidenziato collegamenti tra anarchismo e cibernetica (non trovo riferimenti).
     
 ## 9. Il programma federalista
-Cosmopolitan localism: [[@wiki_cosmopolitan_2020]]
+Cosmopolitan localism: [@wiki_cosmopolitan_2020](@wiki_cosmopolitan_2020.md)
 
 -   _p.115_ L’unificazione dell’Italia e della Germania nell’Ottocento si possono osservare sotto la lente dell’anarchismo. L’Italia, in particolare, era stata per molti secoli un territorio governato in maniera frammentata. 
     

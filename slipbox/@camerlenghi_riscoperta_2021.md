@@ -23,4 +23,4 @@ abstract: Un reportage dai deserti dell’Australia, alla ricerca di una possibi
 
 > Il principio di indeterminazione della meccanica quantistica, scrive, per cui la mera presenza di un osservatore è in grado di influenzare l’esito di un esperimento, [...] in fondo non rappresenta un ostacolo per un pensatore indigeno, il cui punto di vista si pone per definizione all’interno di un sistema, che inevitabilmente influenza con la sua stessa presenza e mai all’esterno, come nella scienza occidentale.
 
-[^june]: [[@june_cultivating_2020]]
+[^june]: [@june_cultivating_2020](@june_cultivating_2020.md)
