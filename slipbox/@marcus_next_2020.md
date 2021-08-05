@@ -1,5 +1,5 @@
 ---
-title: The Next Decade in AI: Four Steps Towards Robust Artificial Intelligence
+title: The Next Decade in AI Four Steps Towards Robust Artificial Intelligence
 authors: Gary Marcus
 year: 2020
 ---
