@@ -8,4 +8,4 @@ Essa ci arriva per associazione con altre idee avute da altre persone; grazie a 
   
 Questa struttura, la Slip-box, o Zettelkasten, è un facilitatore di questo processo.
 
-[[@haraway_chthulucene_2016]]
+[@haraway_chthulucene_2016](@haraway_chthulucene_2016.md)

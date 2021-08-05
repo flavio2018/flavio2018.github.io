@@ -4,5 +4,5 @@ Gli animali vivono un tipo diverso di esperienza cosciente, ma di certo ne vivon
 
 Da qui l'idea di Coscienza Artificiale (Artificial Consciousness), verso una scienza della mente multispecie[^haraway].
 
-[^animali]: [[10_coscienza_animale]]
-[^haraway]: [[@haraway_chthulucene_2016]]
+[^animali]: [10_coscienza_animale](10_coscienza_animale.md)
+[^haraway]: [@haraway_chthulucene_2016](@haraway_chthulucene_2016.md)

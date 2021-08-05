@@ -1,4 +1,4 @@
-Attempting to find a middle way between the developemental approach and the anthropological one ([[€12_children_or_ancestors]]), I must note that the process of developement of sumerian digits is not very informative ([[€8_sumerian_tokens_cuneiform_symbols]]).  
+Attempting to find a middle way between the developemental approach and the anthropological one ([€12_children_or_ancestors](€12_children_or_ancestors.md)), I must note that the process of developement of sumerian digits is not very informative ([€8_sumerian_tokens_cuneiform_symbols](€8_sumerian_tokens_cuneiform_symbols.md)).  
   
 Indeed, a man using either tokens or their negative impression on clay to count goods, would already have developed a concept of abstract exact numerosity.  
   
