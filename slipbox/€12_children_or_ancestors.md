@@ -1,0 +1,1 @@
+When studying the emergence of concepts of exact numerosity, we can take two different paths: one follows the steps of the child who is learning these concepts from adults (developemental), the other one tries to retrace our ancestors who invented them first (anthropological) ([[€8_sumerian_tokens_cuneiform_symbols]], [[€9_cultural_prerequisites_arithmetical_abilities]]).

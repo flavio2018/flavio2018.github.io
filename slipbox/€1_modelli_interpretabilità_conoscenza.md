@@ -1,0 +1,1 @@
+Gli algoritmi possono essere usati come modelli di un fenomeno (cognitivo, epidemiologico, economico, ...). Essi aiutano a comprendere il fenomeno solo fintanto che il loro stesso funzionamento è chiaro, comprensibile e interpretabile.

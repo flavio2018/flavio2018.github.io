@@ -1,0 +1,5 @@
+The anthropological approach to the study of emergence of concepts of exact numerosity ([[€12_children_or_ancestors]]) is about understanding what are the social and cultural elements (more than the individual ones) which allowed the concepts of exact numerosity to be invented at first.  
+  
+The cognitive neuropsychological side of the problem, namely whether specific neural circuits allow humans to think and manipulate exact quantities, is common to both the anthropological and the developemental approaches.  
+  
+It is worth noting that the widest accepted perspective in the literature is that the socio-cultural needs which caused the emergence of complex concepts such as exact numerosity are both based on and shaping the neural connections in human brains (d'Errico et al., 2018).
