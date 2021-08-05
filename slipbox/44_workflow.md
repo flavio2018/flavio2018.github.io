@@ -1,1 +1,0 @@
-The most flexible model proposed to manage the development workflow which I will try to implement is the Gitflow model (or [GitHub Flow](https://guides.github.com/introduction/flow/index.html)?). It simply consist in creating a new branch for each new feature one is working on.

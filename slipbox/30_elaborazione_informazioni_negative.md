@@ -1,7 +1,0 @@
-In [un articolo del Post](https://www.ilpost.it/2021/05/08/troppe-notizie/) si parla della tendenza a "consumare" giornalmente molte notizie, spesso con una preferenza per quelle negative. Citando diversi esperti, il giornalista riporta che questa abitudine possa avere ripercussioni negative sul benessere psichico delle persone.
-
-Nell'articolo vengono citati in particolare [diversi](https://journals.sagepub.com/doi/10.1037/1089-2680.5.4.323) [studi](https://www.sciencedirect.com/science/article/abs/pii/S0167876000001951) che forniscono evidenze empiriche di come le persone tendano a "elaborare" più velocemente gli stimoli negativi di quelli positivi ([negativity bias](https://en.wikipedia.org/wiki/Negativity_bias)). Da un punto di vista cognitivo, questo fa riflettere su quanto il concetto neutrale di "elaborazione dell'informazione" non sia probabilmente il modo migliore di descrivere quanto avviene nel nostro cervello in quelli che chiamiamo processi cognitivi.
-
-L'emotività e il significato personale che noi attribuiamo all'"informazione" assume un ruolo rilevante nel processo stesso acquisizione dell'informazione - e, possibilmente, nei processi di ragionamento successivi che la coinvolgono. Ci si potrebbe chiedere persino quanto sia giusto avere una nozione neutra di *informazione*, scollata dal portato emotivo diverso che ha per ciascuna persona.
-
-[€7_informazione_computazione](€7_informazione_computazione.md)

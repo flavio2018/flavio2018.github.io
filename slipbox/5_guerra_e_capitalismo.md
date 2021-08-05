@@ -1,3 +1,0 @@
-Harari faceva notare in Sapiens che dal secondo dopoguerra in poi abbiamo sperimentato decenni in presenza di conflitti molto limitati, un evento raro nella storia umana. 
-Egli attribuisce il merito di questo evento alla stabilità economica garantita dal sistema capitalista. Eppure, nei due secoli precedenti, ci sono stati numerosi conflitti in tutto il mondo, motivati anche da interessi economici.
-Inoltre, gli ideali pacifisti hanno caratterizzato ben prima del secondo dopoguerra anche altri movimenti politici, come l'anarchismo.

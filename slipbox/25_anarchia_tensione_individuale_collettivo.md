@@ -1,3 +1,0 @@
-Nel pensiero anarchico c'è una tensione tra valori individuali (autonomia, libertà) e collettivi (comunità, ambientalismo). I primi sono più importanti in alcuni ambiti del pensiero e dell'attivismo anarchico (l'educazione, il lavoro), ma è la giusta tensione tra le due che rende la prospettiva anarchica efficace e unica.
-
-In un certo senso, da un punto di vista puramente politico e non valoriale, si può vedere l'anarchia come una mediazione tra ideologie di sinistra e di destra, secondo questi due poli opposti in tensione.

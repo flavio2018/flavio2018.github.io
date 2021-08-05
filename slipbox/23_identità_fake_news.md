@@ -1,7 +1,0 @@
-Il problema delle fake news è solitamente visto dal punto di vista dell'informazione ufficiale. Ossia, come il problema di evitare che le persone credano in teorie e narrazioni che si allontano da quelle ortodosse, diffuse dalle fonti di informazione riconosciute tradizionalmente.
-
-Una prospettiva più interessante e più profonda sul fenomeno è, secondo me, quella che lo avvicina al fenomeno della bolla sui social media. Ciascuno di noi ha una bolla di persone e contenuti che rispecchiano i nostri interessi e sono conformi alle nostre credenze e, per estensione, ai nostri valori. La maggior parte delle nostre bolle sono, almeno parzialmente, sovrapposte o incluse nella narrazione ortodossa, con variazioni tematiche e ideologiche solitamente tollerate.
-
-La credenza nelle fake news si può vedere come un caso particolare di bolla, che si creerebbe dunque secondo gli stessi processi di identificazione e appartenenza culturale sottostanti la formazione dei feed sui social media di ciascuno di noi. 
-
-Il problema più interessante diviene, dunque, la capacità dei media "sociali" di dare forma alle identità individuali e collettive in maniera tanto forte, varia e profonda. Lo studio teorico di tali processi passa sicuramente per le scienze psicologiche e sociologiche ([6_psicologia_sociologia_social_media](6_psicologia_sociologia_social_media.md)), e la riflessione sul design di queste piattaforme e della loro gestione può giovare molto dal tener conto di questo aspetto.

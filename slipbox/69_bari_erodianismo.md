@@ -1,7 +1,0 @@
-In [@cassano_pensiero_1996](@cassano_pensiero_1996.md) Franco Cassano presenta il concetto di Erodianismo: è il movimento culturale di un popolo che adatta la propria cultura ad un'altra dominante, per sopravvivere. Nel processo di adattamento la cultura del popolo "conquistato" muta e si snatura.
-
-La città di Bari sta attraversando un periodo di forte cambiamento, sospinto soprattutto dalla forza economica del turismo. Le tradizioni culinarie e le risorse culturali e paesaggistiche del territorio sono diventate motivo di interesse del mondo verso la città (e la regione Puglia in generale). 
-
-L'usanza tipica di vendere le orecchiette fresche tra i vicoli del centro storico [è stata catapultata](https://www.lagazzettadelmezzogiorno.it/news/home/1199774/bari-nunzia-delle-orecchiette-vola-a-new-york-con-il-sindaco.html) sotto i riflettori internazionali della fiera del turismo newyorkese Travel Show - operazione attivamente supportata dal sindaco Decaro. Il cibo popolare di strada viene presentato e venduto ai turisti, accolti alle porte della piazza principale della città, sotto il brand di Mastro Ciccio. 
-
-Nel frattempo, solo in apparente contraddizione, McDonald's conquista uno dei palazzi più in vista del quartiere Murattiano, appena di fronte al punto vendita del brand locale. Il turista che passeggia per la via principale del centro, appena rinnovata, avrà la solita sensazione di *déjà-vu* che prova ogni qual volta visita una "città turistica", circondato dai brand di moda e lusso che hanno conquistato, vetrina dopo vetrina, tutta la strada.
