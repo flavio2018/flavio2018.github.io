@@ -23,7 +23,7 @@ Kanerva's [Sparse Distributed Memory](https://en.wikipedia.org/wiki/Sparse_distr
 ---
 1. Graves et al., Hybrid computing using a neural network with dynamic external memory [2016_graves_nature](2016_graves_nature.md)
 2. Santoro et al., Symbolic behaviour in Artificial Intelligence [2021_santoro](2021_santoro.md)
-3. Kumaran et al., Complementary Learning Systems Theory Updated [[reference/papers/@kumaran_what_2016]]
+3. Kumaran et al., Complementary Learning Systems Theory Updated [@kumaran_what_2016](@kumaran_what_2016.md)
 4. Wu et al., The Kanerva Machine: A Generative Distributed Memory
 5. Botvnik et al., Deep RL & Neuroscientific Implications
 6. McClelland, Placing Language Integrated Understanding System [embodiedness]
