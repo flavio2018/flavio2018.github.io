@@ -1,10 +1,17 @@
 ---
 title: Symbolic Behaviour in Artificial Intelligence
+aliases: ["Symbolic Behaviour in Artificial Intelligence"]
 authors: Adam Santoro, Andrew Lampinen, Kory Mathewson, Timothy Lillicrap, David Raposo
 year: 2021
+abstract: The ability to use symbols is the pinnacle of human intelligence, but has yet to be fully replicated in machines. Here we argue that the path towards symbolically fluent artificial intelligence (AI) begins with a reinterpretation of what symbols are, how they come to exist, and how a system behaves when it uses them. We begin by offering an interpretation of symbols as entities whose meaning is established by convention. But crucially, something is a symbol only for those who demonstrably and actively participate in this convention. We then outline how this interpretation thematically unifies the behavioural traits humans exhibit when they use symbols. This motivates our proposal that the field place a greater emphasis on symbolic behaviour rather than particular computational mechanisms inspired by more restrictive interpretations of symbols. Finally, we suggest that AI research explore social and cultural engagement as a tool to develop the cognitive machinery necessary for symbolic behaviour to emerge. This approach will allow for AI to interpret something as symbolic on its own rather than simply manipulate things that are only symbols to human onlookers, and thus will ultimately lead to AI with more human-like symbolic fluency.
 ---
+# Symbolic Behaviour in Artificial Intelligence
+<p style="text-align: right"><i>arXiv:2102.03406 [cs]</i></p>
 
-Symbolic Behaviour in Artificial Intelligence
+*Adam Santoro, Andrew Lampinen, Kory Mathewson, Timothy Lillicrap, David Raposo*
+
+[Resource on the Web](http://arxiv.org/abs/2102.03406)
+
 ---
 
 -   _p.2_ The aim of the paper is to investigate symbolic manipulation abilities from a behavioral point of view. To this end, the authors define symbols emphasizing their conventional and interpretative nature, and then characterize symbolic systems starting from this definition.
