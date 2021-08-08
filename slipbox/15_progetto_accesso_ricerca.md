@@ -8,4 +8,3 @@ Uno degli scopi del progetto dovrebbe essere quello di rendere più facile acced
 ### Alcune idee
 - iniziare da una comunità specifica, ad esempio "informatica"
 - un motore di ricerca che sia in grado di associare a termini "generici", del linguaggio comune, i gruppi di ricerca e le comunità scientifiche più rilevanti
-

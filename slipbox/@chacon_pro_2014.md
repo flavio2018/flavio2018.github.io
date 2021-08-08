@@ -34,7 +34,7 @@ abstract:
 - to properly understand branches it is useful to remind that a git repository contains *objects* that are either *blobs* (representations of files), *trees* (representations of directories) and *commits*.
 - a branch in Git is just a pointer to a commit; the master branch usually moves on with the commits we make "on that branch". The information about which branch we are currently in is stored by Git in the `HEAD` variable.
 - creating a new branch, moving in it (`checkout`) and making a new `commit` would simply cause the new commit to refer to the previous one (in the old branch!) as its parent, having the two branches pointers pointing at the old and new commits, respectively.
-![git_branch.png](git_branch.png.md) 
+![[git_branch.png]] 
 - ==note==: "checking out" to a branch therefore simply means moving the `HEAD` to point to the pointer of the branch
 - ==note==: when you're on a branch `git log` will only show commits made on that branch by default
 - ==note==: `git switch` can now be used in place of `git checkout` to move (or create and move) to a new branch

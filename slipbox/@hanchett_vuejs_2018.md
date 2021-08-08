@@ -8,7 +8,7 @@ abstract: Vue.js is a lightweight frontend framework, offering easy two-way data
 [Resource on the Web]()
 
 - Vue.js is an instantiation of the MVVM pattern, which came after the MVC pattern to allow building faster, more responsive web applications. With respect to the MVC pattern, interaction between the ViewModel and the Model, responsible of maintaining the state of the application updated, can be asynchronous, whereas the interaction between the Model and the Controller was synchronous and blocking for the View rendering.
-![ModelViewView-Model.png](ModelViewView-Model.png.md)
+![[ModelViewView-Model.png]]
 - the use of functional programming also helps making the application more responsive (probably due to the possibility of parallelization?)
 
 The way in which changes in the data in ViewModel are reflected in the View (webpage) depend on the lifecycle of Vue apps.
