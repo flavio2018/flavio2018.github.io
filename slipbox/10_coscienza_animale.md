@@ -3,5 +3,5 @@ Studiare la coscienza (non l'intelligenza!) animale[^animal] è secondo me impor
 Il secondo ordine di motivi è che lo studio dell'intelligenza artificiale può probabilmente beneficiare di questa prospettiva. L'idea che l'intelligenza umana sia qualcosa di unico e completamente separato dalle esperienze mentali degli altri esseri viventi è probabilmente sbagliata[^pappagalli], ed è frutto di secoli della diffusa credenza nella presunta superiorità della nostra specie.
 
 [^animal]: [@wiki_animal_2021](@wiki_animal_2021.md)
-[^haraway]: [@haraway_chthulucene_2016](@haraway_chthulucene_2016.md)
+[^haraway]: [[@haraway_chthulucene_2016|Chthulucene: sopravvivere su un pianeta infetto]]
 [^pappagalli]: [@noauthor_intelligenza_2021](@noauthor_intelligenza_2021.md)

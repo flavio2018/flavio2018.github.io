@@ -1,10 +1,17 @@
 ---
 title: The Challenge of Modeling the Acquisition of Mathematical Concepts
+aliases: ["The Challenge of Modeling the Acquisition of Mathematical Concepts"]
 authors: Alberto Testolin
 year: 2020
+abstract: 
 ---
+# The Challenge of Modeling the Acquisition of Mathematical Concepts
+<p style="text-align: right"><i>Frontiers in Human Neuroscience, 2020</i></p>
 
-Challenge of modeling acquisition of mathematical concepts
+*Alberto Testolin*
+
+[Resource on the Web](https://www.frontiersin.org/article/10.3389/fnhum.2020.00100/full)
+
 ---
 
 -   _p.3_ There is evidence of item-by-item enumeration skills in several animal species, but lacking of full understanding of cardinality of a set seems to coincide with the lacking of number words.

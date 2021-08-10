@@ -1,4 +1,17 @@
-Chthulucene
+---
+title: Chthulucene sopravvivere su un pianeta infetto
+aliases: ["Chthulucene: sopravvivere su un pianeta infetto"]
+authors: Donna Jeanne Haraway, Claudia Durastanti, Clara Ciccioni, Nero Editions
+year: 2020
+abstract: 
+---
+# Chthulucene: sopravvivere su un pianeta infetto
+<p style="text-align: right"><i>Nero Editions, 2020</i></p>
+
+*Donna Jeanne Haraway, Claudia Durastanti, Clara Ciccioni*
+
+[Resource on the Web]()
+
 ---
 -   _p.9_ “Ongoingness”: essere e progredire
     
