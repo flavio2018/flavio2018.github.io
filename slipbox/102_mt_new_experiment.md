@@ -14,4 +14,6 @@ I need at least one more experiment to make the results a bit more interesting. 
 		2. to point to squares only once, and
 		3. to draw only once per each square (squares have different shapes)
 	5. hence, all these behaviors are still to be discovered by the agent and their discovery could possibly be interesting.
-	6. an important point is that, for the agent to find it more convenient to build a symbolic ext. rep. instead of learning to associate the input pattern to the correct label thanks to the nonlinear approximation capacity, the environment should be complex enough (bigger than 4x4). however, this will lead to longer training time (bigger network and bigger space). 
+	6. an important point is that, for the agent to find it more convenient to build a symbolic ext. rep. instead of learning to associate the input pattern to the correct label thanks to the nonlinear approximation capacity, the environment should be complex enough (bigger than 4x4). however, this will lead to longer training time (bigger network and bigger space).
+
+[102a_mt_architectural_costraints](102a_mt_architectural_costraints.md)
