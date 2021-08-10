@@ -21,7 +21,7 @@ Kanerva's [Sparse Distributed Memory](https://en.wikipedia.org/wiki/Sparse_distr
 - 6 also highlights the role of embodiedness of experience as a crucial aspect of symbolic (specifically, linguistic) behaviour. 
 
 ---
-1. Graves et al., Hybrid computing using a neural network with dynamic external memory [[reference/papers/@graves_hybrid_2016]]
+1. Graves et al., Hybrid computing using a neural network with dynamic external memory [Hybrid computing using a neural network with dynamic external memory](@graves_hybrid_2016.md)
 2. Santoro et al., Symbolic behaviour in Artificial Intelligence [Symbolic Behaviour in Artificial Intelligence](@santoro_symbolic_2021.md)
 3. Kumaran et al., Complementary Learning Systems Theory Updated [@kumaran_what_2016](@kumaran_what_2016.md)
 4. Wu et al., The Kanerva Machine: A Generative Distributed Memory
