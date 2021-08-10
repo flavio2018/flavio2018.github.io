@@ -1,5 +1,19 @@
+---
+title: Il pensiero meridiano
+aliases: ["Il pensiero meridiano"]
+authors: Franco Cassano
+year: 1996
+abstract: 
+---
 # Il pensiero meridiano
-### di Franco Cassano (1996)
+<p style="text-align: right"><i>Laterza, 1996</i></p>
+
+*Franco Cassano*
+
+[Resource on the Web]()
+
+---
+
 ## Prefazione (2005)
 - *p.VI* Cassano cita opere di fantascienza (La svastica sul sole, Blade Runner) come esempi di testi che possono essere usati per riflettere su altre realtà possibili. In particolare, si riferisce a realtà in cui i rapporti di forza esistenti siano mutati, come nel caso del libro di Dick.
 - *p.VII* Idea più in generale interessante di *revisionismo*, inteso proprio come narrativa alternativa a quella corrente elaborata con il fine di riflettere su altre possibilità.
