@@ -4,6 +4,7 @@ aliases: ["Animals Can Count and Use Zero. How Far Does Their Number Sense Go?"]
 authors: Jordana Cepelewicz
 year: 2021
 abstract: Crows recently demonstrated an understanding of the concept of zero. It’s only the latest evidence of animals’ talents for numerical abstraction — which may still differ from our own grasp of numbers.
+tags: ["h/animal-intelligence", "v/cognitive-science/numerical-cognition"]
 ---
 # Animals Can Count and Use Zero. How Far Does Their Number Sense Go?
 <p style="text-align: right"><i>Quanta Magazine, 2021</i></p>
@@ -26,6 +27,6 @@ Researchers involved in this study wanted to compare the neural representations 
 - > Recordings of the crows’ brain activity during these tasks revealed that neurons in a region of their brain called the pallium represent zero as a quantity alongside other numerosities, just as is found in the primate prefrontal cortex. “From a physiological point of view, this fits in beautifully,” Nieder said. “We see exactly the same responses, the same type of code, represented in the crow brain as in the monkey brain.”
 - one fundamental question is what's the evolutionary need that led animals to develop an approximate sense of the quantity zero. Researchers doubt that they need this in they day-to-day activities; instead, a possibility is that numerical abilities in general first emerged as a byproduct of general visual skills (as suggested by recent computational models[^nasr][^zorzi]).
 
-[^kirschhock]: [Behavioral and Neuronal Representation of Numerosity Zero in the Crow](@kirschhock_behavioral_2021.md)
-[^nasr]: [Number detectors spontaneously emerge in a deep neural network designed for visual object recognition](@nasr_number_2019.md)
-[^zorzi]: [An emergentist perspective on the origin of number sense](@zorzi_emergentist_2018.md)
+[^kirschhock]: [[@kirschhock_behavioral_2021|Behavioral and Neuronal Representation of Numerosity Zero in the Crow]]
+[^nasr]: [[@nasr_number_2019|Number detectors spontaneously emerge in a deep neural network designed for visual object recognition]]
+[^zorzi]: [[@zorzi_emergentist_2018|An emergentist perspective on the origin of number sense]]

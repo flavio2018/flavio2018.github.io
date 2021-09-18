@@ -3,6 +3,7 @@ title: Pro Git
 authors: Scott Chacon
 year: 2014
 abstract: 
+tags: ["v/coding/gestione"]
 ---
 # Pro Git
 [Resource on the Web](https://git-scm.com/book/en/v2)

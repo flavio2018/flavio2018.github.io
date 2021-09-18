@@ -1,11 +1,23 @@
 ---
 title: Q-Learning
+aliases: ["Q-Learning"]
 authors: Christopher J.C.H. Watkins, Peter Dayan
 year: 1992
+abstract: 
+tags: ["#v/learning/reinforcement"]
 ---
+# Q-Learning
 
-Q-Learning
----
+<p style="text-align: right">
+<a href="
+http://link.springer.com/10.1023/A:1022676722315
+">
+<i>Machine Learning - 1992</i>
+</a>
+</p>
+
+*Christopher J.C.H. Watkins, Peter Dayan*
+***
 
 -   _p.1_ Q-Learning algorithm can be seen as a form of dynamic programming: why?
     

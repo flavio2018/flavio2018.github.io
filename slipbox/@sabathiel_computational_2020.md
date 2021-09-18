@@ -2,6 +2,7 @@
 title: A Computational Model of Learning to Count in a Multimodal, Interactive Environment
 authors: Silvester Sabathiel, James L McClelland, Trygve Solstad
 year: 2020
+
 ---
 
 A Computational Model of Learning to Count

@@ -1,10 +1,22 @@
 ---
 title: Neural Arithmetic Logic Units
+aliases: ["Neural Arithmetic Logic Units"]
 authors: Andrew Trask, Felix Hill, Scott Reed, Jack Rae, Chris Dyer, Phil Blunsom
 year: 2018
+abstract: Neural networks can learn to represent and manipulate numerical information, but they seldom generalize well outside of the range of numerical values encountered during training. To encourage more systematic numerical extrapolation, we propose an architecture that represents numerical quantities as linear activations which are manipulated using primitive arithmetic operators, controlled by learned gates. We call this module a neural arithmetic logic unit (NALU), by analogy to the arithmetic logic unit in traditional processors. Experiments show that NALU-enhanced neural networks can learn to track time, perform arithmetic over images of numbers, translate numerical language into real-valued scalars, execute computer code, and count objects in images. In contrast to conventional architectures, we obtain substantially better generalization both inside and outside of the range of numerical values encountered during training, often extrapolating orders of magnitude beyond trained numerical ranges.
 ---
+# Neural Arithmetic Logic Units
 
-Neural Arithmetic Logic Units
+<p style="text-align: right">
+<a href="
+http://arxiv.org/abs/1808.00508
+">
+<i>arXiv, 2018</i>
+</a>
+</p>
+
+*Andrew Trask, Felix Hill, Scott Reed, Jack Rae, Chris Dyer, Phil Blunsom*
+
 ---
 
 -   _p.1_ Basic idea: two modules specifically designed to solve simple arithmetic operations (algebraic sum, multiplication, power)

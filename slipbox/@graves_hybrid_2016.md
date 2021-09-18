@@ -4,15 +4,23 @@ aliases: ["Hybrid computing using a neural network with dynamic external memory"
 authors: Alex Graves, Greg Wayne, Malcolm Reynolds, Tim Harley, Ivo Danihelka, Agnieszka Grabska-Barwińska, Sergio Gómez Colmenarejo, Edward Grefenstette, Tiago Ramalho, John Agapiou, Adrià Puigdomènech Badia, Karl Moritz Hermann, Yori Zwols, Georg Ostrovski, Adam Cain, Helen King, Christopher Summerfield, Phil Blunsom, Koray Kavukcuoglu, Demis Hassabis
 year: 2016
 abstract: 
+tags: ["v/learning/deep"]
 ---
 # Hybrid computing using a neural network with dynamic external memory
-<p style="text-align: right"><i>Nature, 2016</i></p>
+
+<p style="text-align: right">
+<a href="
+http://www.nature.com/articles/nature20101
+">
+<i>Nature
+-
+2016</i>
+</a>
+</p>
 
 *Alex Graves, Greg Wayne, Malcolm Reynolds, Tim Harley, Ivo Danihelka, Agnieszka Grabska-Barwińska, Sergio Gómez Colmenarejo, Edward Grefenstette, Tiago Ramalho, John Agapiou, Adrià Puigdomènech Badia, Karl Moritz Hermann, Yori Zwols, Georg Ostrovski, Adam Cain, Helen King, Christopher Summerfield, Phil Blunsom, Koray Kavukcuoglu, Demis Hassabis*
+***
 
-[Resource on the Web](http://www.nature.com/articles/nature20101)
-
----
 - p.1 The work presents a medel called Differentiable Neural Computer which consists of a neural network that learns to use an external memory to solve complex tasks. It can be trained either with Reinforcement Learning or with Supervised Learning algorithms. It can effectively solve question-answering tasks, reasoning on graphs and blocks puzzles.
 - p.1 The goal of the system is to overcome the limitation of DNN in which memory and computation coincide, in the form of connection weights. This is also motivated by studies in cognitive science and psychology about the role of the hyppocampus and its interaction with the prefrontal cortex in reasoning processes.
 - p.1 The weightings vector used to select the row(s) to be read or written in the memory is created using a differentiable attention mechanism called *content lookup*. This simply consists in comparing a *key vector* output by the controller network to every vector in memory. 

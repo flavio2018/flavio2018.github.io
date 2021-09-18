@@ -3,6 +3,7 @@ title: Emergence in Cognitive Science
 authors: James L. McClelland
 year: 2010
 abstract: 
+tags: ["v/cognitive-science"]
 ---
 # Emergence in Cognitive Science
 [Paper on the Web](http://doi.wiley.com/10.1111/j.1756-8765.2010.01116.x)

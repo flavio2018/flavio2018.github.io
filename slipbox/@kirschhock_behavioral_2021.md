@@ -4,6 +4,7 @@ aliases: ["Behavioral and Neuronal Representation of Numerosity Zero in the Crow
 authors: Maximilian E. Kirschhock, Helen M. Ditz, Andreas Nieder
 year: 2021
 abstract: 
+tags: ["#h/animal-intelligence", "v/cognitive-science/numerical-cognition"]
 ---
 # Behavioral and Neuronal Representation of Numerosity Zero in the Crow
 <p style="text-align: right"><i>The Journal of Neuroscience, 2021</i></p>

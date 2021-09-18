@@ -4,15 +4,22 @@ aliases: ["What Learning Systems do Intelligent Agents Need? Complementary Learn
 authors: Dharshan Kumaran, Demis Hassabis, James L. McClelland
 year: 2016
 abstract: 
+tags: ["v/cognitive-science"]
 ---
 # What Learning Systems do Intelligent Agents Need? Complementary Learning Systems Theory Updated
-<p style="text-align: right"><i>Trends in Cognitive Sciences</i></p>
+
+<p style="text-align: right">
+<a href="
+https://linkinghub.elsevier.com/retrieve/pii/S1364661316300432
+">
+<i>Trends in Cognitive Sciences
+-
+2016</i>
+</a>
+</p>
 
 *Dharshan Kumaran, Demis Hassabis, James L. McClelland*
-
-[Resource on the Web](https://linkinghub.elsevier.com/retrieve/pii/S1364661316300432)
-
----
+***
 
 - p.2 The core idea behind the CLS theory (originally proposed in ?) is that learning in the brain happens thanks to two different structures, the neocortex and the hyppocampus, which have different functions.
 - p.3 The neocortex has the ability to encode structure in the connection weights of its neurons. This is a statement based on ML evidence, meaning that the ANNs can create an efficient, sparse and structured representation of input data in their connection weights (it does not mean that they can learn structured data natively).

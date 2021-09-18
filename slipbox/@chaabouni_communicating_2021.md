@@ -1,11 +1,26 @@
 ---
 title: Communicating artificial neural networks develop efficient color-naming systems
+aliases: ["Communicating artificial neural networks develop efficient color-naming systems"]
 authors: Rahma Chaabouni, Eugene Kharitonov, Emmanuel Dupoux, Marco Baroni
 year: 2021
+abstract: Words categorize the semantic fields they refer to in ways that maximize communication accuracy while minimizing complexity. Focusing on the well-studied color domain, we show that artificial neural networks trained with deep-learning techniques to play a discrimination game develop communication systems whose distribution on the accuracy/complexity plane closely matches that of human languages. The observed variation among emergent color-naming systems is explained by different degrees of discriminative need, of the sort that might also characterize different human communities. Like human languages, emergent systems show a preference for relatively low-complexity solutions, even at the cost of imperfect communication. We demonstrate next that the nature of the emergent systems crucially depends on communication being discrete (as is human word usage). When continuous message passing is allowed, emergent systems become more complex and eventually less efficient. Our study suggests that efficient semantic categorization is a general property of discrete communication systems, not limited to human language. It suggests moreover that it is exactly the discrete nature of such systems that, acting as a bottleneck, pushes them toward low complexity and optimal efficiency.
+tags: ["h/ai"]
 ---
+# Communicating artificial neural networks develop efficient color-naming systems
 
-Communicating ANN Develop Efficient Color Naming
----
+<p style="text-align: right">
+<a href="
+http://www.pnas.org/lookup/doi/10.1073/pnas.2016569118
+">
+<i>Proceedings of the National Academy of Sciences
+-
+2021</i>
+</a>
+</p>
+
+*Rahma Chaabouni, Eugene Kharitonov, Emmanuel Dupoux, Marco Baroni*
+***
+
 
 -   _p.1_ One core theory behind the paper is that of Information Bottleneck, a framework developed to study the accuracy _vs_ complexity trade-off in languages. The two extreme cases of systems favouring one aspect over the other are communication systems having only one symbol, and one having as many symbols as referents.
     

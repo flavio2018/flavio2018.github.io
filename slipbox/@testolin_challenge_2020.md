@@ -4,6 +4,7 @@ aliases: ["The Challenge of Modeling the Acquisition of Mathematical Concepts"]
 authors: Alberto Testolin
 year: 2020
 abstract: 
+tags: ["v/cognitive-science/numerical-cognition"]
 ---
 # The Challenge of Modeling the Acquisition of Mathematical Concepts
 <p style="text-align: right"><i>Frontiers in Human Neuroscience, 2020</i></p>

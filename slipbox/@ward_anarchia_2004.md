@@ -1,6 +1,19 @@
-    
+---
+title: L'anarchia un approccio essenziale
+aliases: ["L'anarchia: un approccio essenziale"]
+authors: Colin Ward
+year: 2014
+abstract: 
+tags: ["h/politics/anarchism"]
+---
+# L'anarchia: un approccio essenziale
 
-# Anarchia
+<p style="text-align: right">
+<i>Elèuthera - 2014</i>
+</p>
+
+*Colin Ward*
+***
 
 ## 1. Definizioni e antenati
 -   _p.15_ Il primo teorico anarchico fu Proudhon. Si può vedere l’anarchismo come un’ideologia politica che porta all’estremo sia il socialismo che il liberalismo, due assi su cui le varianti dell’ideologia sviluppano le proprie peculiarità
@@ -87,7 +100,7 @@
 -   _p.109_ Roel van Duijn, leader del movimento olandese dei Kabouters, aveva evidenziato collegamenti tra anarchismo e cibernetica (non trovo riferimenti).
     
 ## 9. Il programma federalista
-Cosmopolitan localism: [@wiki_cosmopolitan_2020](@wiki_cosmopolitan_2020.md)
+Cosmopolitan localism: [[@wiki_cosmopolitan_2020]]
 
 -   _p.115_ L’unificazione dell’Italia e della Germania nell’Ottocento si possono osservare sotto la lente dell’anarchismo. L’Italia, in particolare, era stata per molti secoli un territorio governato in maniera frammentata. 
     

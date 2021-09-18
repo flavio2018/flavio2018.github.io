@@ -76,5 +76,5 @@ References
 13. McClelland, James L., Felix Hill, Maja Rudolph, Jason Baldridge, e Hinrich Schütze. «Placing Language in an Integrated Understanding System: Next Steps toward Human-Level Performance in Neural Language Models». _Proceedings of the National Academy of Sciences_ 117, n. 42 (20 ottobre 2020): 25966–74. [https://doi.org/10.1073/pnas.1910416117](https://doi.org/10.1073/pnas.1910416117).
 14. Kumaran, Dharshan, Demis Hassabis, e James L. McClelland. «What Learning Systems Do Intelligent Agents Need? Complementary Learning Systems Theory Updated». _Trends in Cognitive Sciences_ 20, n. 7 (luglio 2016): 512–34. [https://doi.org/10.1016/j.tics.2016.05.004](https://doi.org/10.1016/j.tics.2016.05.004).
 
-[^bengio]: [@bengio_deep_2021](@bengio_deep_2021.md)
-[^silver]: [@silver_mastering_2017](@silver_mastering_2017.md)
+[^bengio]: [[@bengio_deep_2021]]
+[^silver]: [[@silver_mastering_2017 1]]

@@ -8,4 +8,4 @@ Il pezzo ha il pregio, caratteristico della linea editoriale del Post, di partir
 
 Da un punto di vista di sforzo di scrittura è una tecnica di minimo sforzo per il massimo risultato; la parte che richiede più attenzione è la ricerca delle fonti e selezione dei contenuti - che può però essere semplificata una volta fatta una buona ricerca e pianificazione editoriale iniziale.
 
-[^convincere]: [@noauthor_come_2021](@noauthor_come_2021.md)
+[^convincere]: [[@post_convincere_2021]]

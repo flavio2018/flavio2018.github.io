@@ -1,11 +1,25 @@
 ---
 title: Deep Learning for Symbolic Mathematics
+aliases: ["Deep Learning for Symbolic Mathematics"]
 authors: Guillaume Lample, François Charton
 year: 2019
+abstract: Neural networks have a reputation for being better at solving statistical or approximate problems than at performing calculations or working with symbolic data. In this paper, we show that they can be surprisingly good at more elaborated tasks in mathematics, such as symbolic integration and solving differential equations. We propose a syntax for representing mathematical problems, and methods for generating large datasets that can be used to train sequence-to-sequence models. We achieve results that outperform commercial Computer Algebra Systems such as Matlab or Mathematica.
+tags: ["v/learning/deep"]
 ---
+# Deep Learning for Symbolic Mathematics
 
-Deep Learning for Symbolic Mathematics
----
+<p style="text-align: right">
+<a href="
+http://arxiv.org/abs/1912.01412
+">
+<i>arXiv:1912.01412 [cs]
+-
+2019</i>
+</a>
+</p>
+
+*Guillaume Lample, François Charton*
+***
 
 -   _p.1_ Key idea: model methematical expressions and problems using them (integration, ODEs) as a NLP task using seq2seq models
     
