@@ -1,7 +1,0 @@
-# Partial Auto-Correlation Function
-From [Wikipedia](https://en.wikipedia.org/wiki/Partial_autocorrelation_function):
-
-> In [time series analysis](https://en.wikipedia.org/wiki/Time_series_analysis), the **partial autocorrelation function** (**PACF**) gives the [partial correlation](https://en.wikipedia.org/wiki/Partial_correlation "Partial correlation") of a stationary time series with its own lagged values, regressed the values of the time series at all shorter lags. It contrasts with the [autocorrelation function](https://en.wikipedia.org/wiki/Autocorrelation_function "Autocorrelation function"), which does not control for other lags.
-> This function plays an important role in data analysis aimed at identifying the extent of the lag in an [autoregressive model](https://en.wikipedia.org/wiki/Autoregressive_model "Autoregressive model"). The use of this function was introduced as part of the [Box–Jenkins](https://en.wikipedia.org/wiki/Box%E2%80%93Jenkins "Box–Jenkins") approach to time series modelling, whereby plotting the partial autocorrelative functions one could determine the appropriate lags **p** in an AR (**p**) [model](https://en.wikipedia.org/wiki/Autoregressive_model "Autoregressive model") or in an extended [ARIMA](https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average "Autoregressive integrated moving average") (**p**,**d**,**q**) model.
-
-[73_befd_arima](73_befd_arima.md)
