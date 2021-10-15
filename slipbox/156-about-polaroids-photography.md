@@ -1,0 +1,8 @@
+# About Polaroids and photography
+<p style= "text-align: right"><i>Created 11/10/2021</i></p>
+
+- There's a link between Polaroid photos (and printed photos in general) and books
+- something magical about photography - one of the reasons I'm attracted to it - is that since it mimics vision it naturally connects with our sense of materiality, i.e. we are naively driven to think that objects in photographs are real and material - or, objects in photos have a sense of materiality to us.
+- Similarly as photographs embed aspects of our relationship with space, they do so with time. Photos preserve something that happened "back then" - a feature that is especially evident with historical photos. They materialize our relationship with a time made of ephemeral instants.
+- Both these features of photography that make it a form of expression - a tool - that is able to build upon the basic features of our relationship with time and space can be used for utilitarian purposes. Here comes the industrial, commercial and consumerist use of photography. Leveraging their ability to capture instants, we use photos as memos of things ("let me take a picture of this one so that I can remember in the future"). The ability of photographs to mirror objects materiality is used in commerce, both in flyers, to give the customer the exact image of what s/he will buy, or in e-commerce webpages, where the picture is effectively a placeholder for the product which we rely upon when deciding about our purchase.
+Even more could be said about modified pictures in commercials, even regarding people or the body.

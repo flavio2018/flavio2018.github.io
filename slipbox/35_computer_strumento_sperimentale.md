@@ -1,0 +1,17 @@
+%%Qual è l'oggetto della sperimentazione? Si può dire che sia l'*informazione*?%%
+
+Dall'avvento di grandi capacità computazionali e moli di dati, il computer si è affermato nella pratica sperimentale di numerose discipline, dalla fisica alla biologia, dalle scienze sociali a quelle cognitive ([@arthur_algorithms_2020](@arthur_algorithms_2020.md), [[€7_informazione_computazione]]). L'affermazione del suo utilizzo e le potenzialità dei metodi computazionali hanno portato anche alcuni a sostenere [posizioni estreme](https://www.wired.com/2008/06/pb-theory/) secondo le quali la ricerca teorica sarebbe diventata superflua a fronte delle capacità di estrapolazione di informazioni dalle grandi moli di dati.
+
+Anche se questa prospettiva estrema si è rivelata irrealistica, i metodi computazionali sono ormai usati all'ordine del giorno in quasi tutte le discipline scientifiche, indipendentemente dall'ambito. Il computer è diventato, quindi, uno strumento sperimentale a disposizione del ricercatore al pari del microscopio, del bunsen, del dinamometro. Tuttavia, il computer può essere usato nei protocolli di ricerca in molti modi diversi: 
+- come strumento di calcolo: in questo caso, il computer viene usato prettamente nella sua veste di *calcolatore*, per svolgere operazioni matematiche che potrebbero ugualmente essere svolte a mano, ma possono essere svolte più rapidamente e su quantità di dati più grandi usando il computer. Questo è il caso dei protocolli di ricerca fortemente basati sulla statistica, nei quali la maggior parte delle domande di ricerca vengono affrontate progettando e svolgendo test statistici.
+- come simulatore: questo caso coincide parzialmente con il precedente, nel senso che il computer viene ugualmente usato per svolgere operazioni più velocemente e su scala, ma il fine delle operazioni è la descrizione astratta di un fenomeno, la cosiddetta *modellazione*. Questo è il caso dell'epidemiologia computazionale ([@vespignani_algoritmo_2019](@vespignani_algoritmo_2019.md)), ma anche dell'ingegneria, della fisica o perfino delle scienze sociali, nel caso di alcuni modelli di opinion dynamics. In questo caso, la potenza computazionale viene usata per esplorare *mondi possibili*, ossia esplorare complessi scenari probabilistici in cui gli eventi futuri sono difficili da prevedere, generando moltissime catene di eventi e vedendo come vanno a finire. La bontà di questi modelli viene sempre valutata in confronto alla capacità di prevedere eventi reali sulla base di informazioni disponibili *prima* dell'evento stesso. 
+La costruzione di questi modelli permette anche di esplorare ipotesi sulle dinamiche dei fenomeni studiati: se un modello che incorpora determinate assunzioni fa previsioni corrette sul futuro, questa può essere considerata un'evidenza della correttezza delle assunzioni fatte. Questi modelli sono, solitamente (almeno nelle discipline più ispirate al rigore della fisica), basate su descrizioni matematiche teoricamente rigorose del fenomeno stesso.
+- come simulatore dell'apprendimento: questo è il caso ancor più particolare dei modelli di apprendimento automatico.
+
+***
+
+### Campi
+- Computational linguistics
+- Computational semiotics
+- Computational social science
+- Computational cognitive neuroscience

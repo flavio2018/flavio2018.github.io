@@ -1,0 +1,12 @@
+## How to dynamically create objects attributes
+In Python, classes and objects have a lot of strange properties. One of these is being able to dynamically create attributes for objects once they have already been instantiated. This can be done thanks to a special attribute of the object called the `__dict__`, which maintains the names and values of the object's attributes.
+
+In ML it happens a lot of times that we need to instantiate some object that needs a lot of parameters as input (e.g. an environment, or a model) in order to customize and experiment with its behaviour. Having a class definition with all the expected parameters explicitly written can become very heavy, although it can be considered clear and self-documenting. Moreover, this syntax makes the instantiation of the class itself heavy, necessitating to pass all the parameters explicitly, when none of them is left with its default value.
+
+I have found what I think can be a valid alternative to this way of defining and instantiating classes, which leverages the `__slots__` special attributes of Python `object` subclasses, and `object`'s method `setattr`. 
+
+What we do is basically create a class which is an instance of `object` in order to be able to define the special attribute `__slots__`, which is a definition of all the names of the expected attributes of the class. This is in contrast with the flexibility provided by the `__dict__` attribute, however that can still be obtained with some workaround (see article at the end). Then, we write the class' `__init__` method definition providing `kwargs`. The explicit list of the expected attributes will still be present in the `__slots__` variable, which we will instantiate in the constructor itself. Then, we iterate over the values in `__slots__`, initializing them with the values passed as keyword arguments, or to `None` if they were not present in the parameters. 
+
+If any values in the keyword arguments are not to be used as object attributes, we can still access them as attributes of the `kwargs` dictionary and used in the constructor for other purposes.
+
+For more detailed examples, refer to [this Stackoverflow answer](https://stackoverflow.com/questions/472000/usage-of-slots); [here](https://codereview.stackexchange.com/questions/171107/python-class-initialize-with-dict) the post I got the hint from.

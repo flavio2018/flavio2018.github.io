@@ -1,0 +1,4 @@
+# Riflessioni a San Sabba
+<p style= "text-align: right"><i>Created 29/09/2021</i></p>
+
+Le persecuzioni politiche e religiose non sono eccezionali nella storia. È stato detto che le modalità di persecuzione naziste, burocratizzate e scientifiche, sono uniche e proprie del XX secolo. Indubbiamente è vero, eppure non è per questo che viene ricordata con tanta insistenza la persecuzione nazista. L'ideologia democratica e libertaria non può ammettere la persecuzione di qualsiasi minoranza. Questo genere di problemi non esistevano in altri momenti storici e contesti politici, in cui efferatezze paragonabili a quelle naziste sono state compiute senza mantenerne la memoria così viva.

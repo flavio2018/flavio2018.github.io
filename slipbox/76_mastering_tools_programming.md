@@ -1,0 +1,6 @@
+# Mastering tools
+One of the mantras of the free software movement is *own your tools*, so that you'll own your job. I'd say that the step before owning the tools is mastering them, i.e. knowing really well how they work and how you can best use them to accomplish your goals with the least effort and spending the least amount of time. After all, that's the whole point of automation ;)
+
+[This blog post](https://www.angioi.com/data-job-interview-tips/) by Alessandro Angioi, among other things I came across with, was of inspiration to me to dig deeper in this topic. So the basic question is: how do you master a new tool (typically, a library or even an entirely new programming language)?
+
+It seems that one recurring advice on the web is to *read source code*. This is not anything new, and I guess it can be really helpful when trying to learn any tool that's more complex than a package (i.e. a framework or a whole new language). It helps understanding how the features of the tool are best used, what's the accepted style to use when writing using that tool.

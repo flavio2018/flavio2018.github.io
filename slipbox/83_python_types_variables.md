@@ -1,0 +1,2 @@
+# Mutable _vs_ immutable types & variables as references
+In Python, variables names are references to _objects_ in memory, not to _portions_ of memory. The difference is that when you reassign a variable to a new object, the object it referenced before continues to exist and a new object is created in a different place in memory. Since `strings` are immutable objects, when we concatenate `strings` in a loop and re-assign them to the same variable, we are in fact creating a new object every time and occupying new memory.

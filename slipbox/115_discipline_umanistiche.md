@@ -1,0 +1,11 @@
+Ho già riflettuto[^conoscenze] su come la conoscenza possa assumere forme diverse a seconda del linguaggio impiegato per esprimerla[^floridi].
+
+La riflessione in forma letteraria, narrativa o saggistica non scientifica, viene solitamente raccolta nel paniere delle "discipline umanistiche". Mi chiedo qui: perché le discipline umanistiche? Quale prospettiva offrono allo scenziato, al creatore, al creativo, all'artigiano, al tecnico?
+
+In primo luogo, credo che sia importante notare che la differenza principale tra le forme del sapere citate sopra e quelle "umanistiche" sia la necessaria messa in gioco della propria individualità, esperienza individuale, del proprio "sentire" nell'interfacciarsi con le seconde. Il nome stesso dato in tempi recenti a queste discipline allude al fatto che esse hanno a che fare con *l'umano* e la sua esperienza del mondo, della vita. La soggettività dello sguardo non è, come nelle discipline tecnico-scientifiche, qualcosa da ignorare o da eliminare completamente (come nell'umorismo che Pasolini non amava[^pasolini]); essa è necessaria all'esperienza del sapere (o sarebbe meglio forse dire *pensiero*) umanistico, che può comunque superare l'individualismo e diventare generalizzabile non per le vie della logica ma in virtù di quanto ci accomuna come uomini e donne.
+
+Da questa sorgente credo discendano alcune conseguenze. I linguaggi (o gli strumenti) del pensiero rendono visibili del mondo volti e fenomeni diversi. Impossibile pensare alla cornice culturale del pensiero scientifico o della produzione tecnologica nei termini della scienza stessa o attraverso la produzione di un nuovo manufatto. Con una consapevolezza di tale cornice (e non vivendo il contesto presente passivamente, come pesci in un acquario) si può però esercitare quei tipi di pensiero con altri esiti, altri presupposti, altre intenzioni.
+
+[^conoscenze]: [33_outline_strumenti_conoscenza](33_outline_strumenti_conoscenza.md)
+[^floridi]: https://youtu.be/66zFgGO6E5k
+[^pasolini]: [[@cassano_pensiero_1996#5 Pier Paolo Pasolini ossimoro di una vita|Il pensiero meridiano]]
