@@ -1,0 +1,11 @@
+# slipbox management scripts
+scripts/
+
+# bmcs files with annoying latex
+slipbox/*bmcs*
+
+# any draft
+_drafts/
+
+# ignore by default also any picture
+pictures/
