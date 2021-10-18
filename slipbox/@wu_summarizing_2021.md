@@ -23,4 +23,4 @@ https://openai.com/blog/summarizing-books/
 
 - problema su cui lavora OpenAI: alignment problem, ossia valutare gli output dei modelli di AI e fare sì che siano "allineati con le richieste umane"
 
-[[140_openai_research_lines]]
+[140_openai_research_lines](140_openai_research_lines.md)

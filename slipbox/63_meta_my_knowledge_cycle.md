@@ -28,7 +28,7 @@
 ## Why writing?  
 - to elaborate ideas and remember them
 	- take notes when ideas pop up and link them[^links] (slipbox method); only done for oneself
-- to make others understand
+- to make others understand[^distill]
 	- a more curated kind of writing, not done exclusively for oneself. It can build on the notes take to elaborate thoughts, but often needs heavy re-elaboration including writing about things that one takes for granted and implicit (i.e. introducing to basic concepts). Also, the form of writing must be made clear for the general reader, and, depending on the venue, even polished to make it pleasant to read  
 - to present technical work
 	- this mainly regards writing theses and technical papers. It can be reduced to a summary of previously done work. The reflection and personal elaboration of information are generally less important
@@ -38,5 +38,6 @@ Writing digitally with a standard format like Markdown means that repeated tasks
   
 - make literature notes stubs with abstract instead of downloading paper
 
+[^distill]: [[@olah_research_2017|Research Debt]]
 [^links]: [101_meta_linking_notes](101_meta_linking_notes.md)
 [^macmahan]: [Creative Destruction The Structural Consequences of Scientific Curation](@mcmahan_creative_2021.md)

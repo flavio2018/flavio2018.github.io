@@ -21,5 +21,5 @@ http://www.nature.com/articles/s41586-021-03506-2
 *Francis R. Willett, Donald T. Avansino, Leigh R. Hochberg, Jaimie M. Henderson, Krishna V. Shenoy*
 ***
 
-- [[@testolin_letter_2017|Letter perception emerges from unsupervised deep learning and recycling of natural image features]]
-- [[@lake_human-level_2015|Human-level concept learning through probabilistic program induction]]
+- [Letter perception emerges from unsupervised deep learning and recycling of natural image features](@testolin_letter_2017.md)
+- [Human-level concept learning through probabilistic program induction](@lake_human-level_2015.md)
