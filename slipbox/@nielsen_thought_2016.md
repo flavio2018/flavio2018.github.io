@@ -54,4 +54,4 @@ https://cognitivemedium.com/tat/index.html
 - another way to think about the augmenting abilities that computers have (much like other tools) is that of allowing new ways of thinking, to extend the range of the conceivable.
 
 [^derrico]: [[@derrico_cultural_2018|Cultural Exaptation and Cultural Neural Reuse: A Mechanism for the Emergence of Modern Culture and Behavior]]
-[^games]: [[153-what-about-games]]
+[^games]: [153-what-about-games](153-what-about-games.md)

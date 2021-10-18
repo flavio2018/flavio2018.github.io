@@ -58,5 +58,5 @@ tags: [ "#v/coding/design" ]
 
 ## 2. Principi del refactoring
 
-[^explicit-logic]: [[47a_making_logic_explicit]]
-[^pandas]: [[77_pandas]]
+[^explicit-logic]: [47a_making_logic_explicit](47a_making_logic_explicit.md)
+[^pandas]: [77_pandas](77_pandas.md)
