@@ -1,5 +1,6 @@
 # Pandas
 This is a note I will use to learn better Pandas. I'm going to start from [Tom Augspurger's guide](https://tomaugspurger.github.io/modern-1-intro) on modern Pandas.
+See also [[@zero_aggregations_2021|Aggregations on time-series data with Pandas]]
 
 ## 1. `df.pipe()`
 [In the docs](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.pipe.html?highlight=pipe#pandas.DataFrame.pipe)

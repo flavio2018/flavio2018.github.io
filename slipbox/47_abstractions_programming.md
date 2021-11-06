@@ -1,3 +1,4 @@
+# Abstractions in programming
 When iteratively writing code, there will happen to tidy up the code and hide complexity therein in several different ways. We can look at various constructs in programming languages as different ways to hide complexity and tidy up the code.
 
 - **Variables**: when an expression, possibly significantly complex, is repeated many times in the code, it is worth to hide it behind a variable, to improve readability

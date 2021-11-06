@@ -10,7 +10,4 @@ tags: ["v/learning/deep"]
 <p style="text-align: right"><i>Proceedings of the Thirteenth International Conference on Artificial Intelligence and Statistics, 2010</i></p>
 
 *Xavier Glorot, Yoshua Bengio*
-
-[Resource on the Web]()
-
----
+***

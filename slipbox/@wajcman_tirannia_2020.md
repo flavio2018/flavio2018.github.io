@@ -60,3 +60,28 @@ Treccani
 - un altro fattore che influisce sulla sensazione di pressione temporale è la qualità del tempo libero. Non sembra ci siano differenze tra la quantità di tempo libero che hanno uomini e donne, tuttavia quello delle donne è più frammentato da altre attività non lavorative (accudimento dei figli, attività domestiche) e dunque risulta di qualità minore
 
 ## 4. Lavorare costantemente connessi
+La tesi di Wajcman è che, al solito, non siano le tecnologie digitali di per sé a farci vivere un'esperienza del tempo sempre più pressante, ma il ruolo che esse hanno nei luoghi di lavoro e nella cultura lavorativa e organizzativa contemporanea.
+
+W. fa notare che per gestire la pressione del tempo, che sembra essere sistematicamente associata all'uso di dispositivi digitali, finiamo sempre per rivolgerci a quegli stessi dispositivi
+
+I dispositivi digitali sono influenzati - e in una certa misura riflettono - i rapporti sociali di produzione che li hanno generati.
+
+La ricerca sociologica evidenza, in generale, come i processi sociali influenzino la progettazione e l'utilizzo delle tecnologie a diversi livelli.
+
+La spesa aziendale in ICT dagli anni 70 ad oggi è cresciuta molto, ma è difficile valutare se abbia realmente portato ad aumentare la produzione, perché  le ICT interagiscono in modi complessi con le realtà culturali in cui sono immerse
+
+Si può dire con sicurezza che con l'avvento delle tecnologie digitali si sono creati due gruppi di lavori, i "MacJobs" e i "McJobs", entrambi caratterizzati da forte flessibilità, ma anche da alta  e bassa qualificazione, rispettivamente.
+
+Secondo W., anche se sono state sempre più utilizzate sul lavoro, è possibile che le ICT non abbiano direttamente causato l'aumento delle ore lavorative. Piuttosto, possono aver causato un'intensificazione del lavoro, per cui è interessante di nuovo considerare come le ICT possano causare frammentazione del tempo lavorativo, multitasking e ritmo accelerato del lavoro.
+
+L'email può essere considerata, secondo uno studio, il simbolo del sovraccarico di lavoro (nonostante in linea di principio possa, in quanto mezzo di comunicazione asincrono, diminuire tale sovraccarico). Questo è dovuto da una interazione di fattori socio-materiali, quali la caratteristica delle email di accumularsi se non vengono lette e corrisposte con frequenza, la grande mole di lavoro che gli impiegati devono svolgere ogni giorno e la tendenza collettiva ad associare le email alla sensazione di controllo.
+
+Secondo una ricerca di W., non si può davvero dire che gli strumenti di comunicazione digitali creino interruzioni delle attività lavorative perché, almeno per alcuni tipi di lavoratori, essi *sono* attività lavorative a tutti gli effetti. Inoltre, alcuni tipi di comunicazioni asincrone, insieme all'adozione di pratiche individuali e collettive, permettono anche di rispondere alle comunicazioni quando lo si desidera.
+
+Il multitasking si può definire come la capacità di svolgere più compiti contemporaneamente con il fine di essere più produttivi. Un esempio è il controllare le email mentre si segue una conferenza. Studi di psicologia cognitiva portano evidenze a favore della tesi che il multitasking riduca la qualità dei risultati ottenuti nei compiti svolti parallelamente.
+
+Il concetto di multitasking si può associare, secondo W., alla dicotomia tra tempo monocronico e tempo policronico. Nel primo caso, il tempo viene concepito come riempito da singoli eventi in successione; nel secondo, da una serie di eventi che possono sovrapporsi. Il tempo policronico è tipico della vita familiare, soprattutto per le donne nelle famiglie in cui la vita domestica ruota intorno alla madre. Secondo gli studi sul tema, avere una gestione del tempo monocronica o policronica può essere o meno vantaggioso a seconda delle circostanze e del contesto culturale.
+
+Tale contesto, da un punto di vista sociale ed economico, si può descrivere guardando ai cambiamenti che sta attraversando il capitalismo dagli anni 90 ad oggi. Una delle principali caratteristiche di questi cambiamenti è l'aumento di flessibilità e precarietà lavorativa, che distingue i lavori attuali da quelli industriali tipici di fine '800 e inizio '900. L'impatto della precarietà lavorativa sulla vita privata è stato analizzato da Richard Sennet ne *L'uomo flessibile*, nel quale ipotizza che la precarietà lavorativa stia rendendo più difficile per le persone crearsi un'identità personale basata sulla propria attività lavorativa quotidiana. 
+
+Ci si potrebbe chiedere: cosa può allora contribuire a creare l'identità personale? Quali altri tipi di attività e sfere della vita? In qualche modo, questo discorso potrebbe essere collegato a quello sul reddito universale.

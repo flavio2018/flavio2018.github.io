@@ -59,3 +59,10 @@ What we usually do is merging a branch onto the master one. There are several di
 - the new branch "follows" the master's branch history. I.e., in the master branch nothing new happened while you were working in the new branch. In this case, the git merges in *fast-forward* mode.
 - the new branch history has diverged from that of the master branch, but does not conflict with it. In this case, the merge is made by git *following the recursive strategy*, i.e. git takes into account the last commit in both branches and the lowest common ancestor of these comments in the history tree and creates a new commit in which merges the three contents of the working directory. The new commit is called a *merge commit*.
 - the new branch diverged from master, and it has conflicting history. In this case, git pauses the merging process and waits for you to solve the conflicts. To manually fix a merge conflict follow [this simple guide](https://githowto.com/resolving_conflicts).
+
+## Squashing
+
+Reverting merge commits, detached heads and stuff
+- https://stackoverflow.com/questions/34519665/how-can-i-move-head-back-to-a-previous-location-detached-head-undo-commits#34519716
+- https://stackoverflow.com/questions/9059335/how-can-i-get-the-parents-of-a-merge-commit-in-git#9059633
+- https://stackoverflow.com/questions/4735556/git-not-currently-on-any-branch-is-there-an-easy-way-to-get-back-on-a-branch#4735584

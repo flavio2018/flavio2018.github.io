@@ -1,5 +1,6 @@
 - [Real Python's Testing in Python](https://realpython.com/python-testing/)
 - [`unittest` standard library](https://docs.python.org/3/library/unittest.html)
+- [`ward`](https://ward.readthedocs.io/en/latest/)
 
 ## Handling side effects
 When using an imperative programming language, functions can have side effects such as writing to a file, a DB or changing variables out of the function's scope. When writing tests for a function, it's better to decide in advance whether side effects should be tested as well or not.

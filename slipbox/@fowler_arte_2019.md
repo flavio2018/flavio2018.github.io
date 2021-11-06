@@ -8,22 +8,7 @@ aliases:
   ]
 authors: Martin Fowler, Kent Beck
 year: 2019
-abstract: Da quando la programmazione a oggetti è diventata di uso comune, gli
-  sviluppatori si sono trovati di fronte a un numero significativo di
-  applicazioni mal progettate, con software inefficienti e difficili da
-  mantenere ed estendere. Per questo, nel corso del tempo, i professionisti più
-  esperti hanno messo a punto un insieme di tecniche di refactoring per
-  migliorare l'integrità strutturale e le prestazioni dei programmi. Pubblicato
-  per la prima volta nel 1999 e ora aggiornato a vent'anni di distanza per
-  riflettere i cambiamenti nel mondo del software, questo manuale è una pietra
-  miliare. L'autore svela i principi e le tecniche fondamentali per trasformare
-  codice scritto male in un programma ben congegnato. Vengono mostrati oltre
-  sessanta metodi di refactoring, corredati da istruzioni passo-passo e
-  indicazioni su quando applicarli. Gli esempi sono basati su JavaScript ma si
-  possono applicare alla maggior parte dei linguaggi di programmazione. Un libro
-  dedicato a tutti gli sviluppatori che vogliono scoprire o approfondire che
-  cosa è il refactoring, perché dovrebbero applicarlo e come riconoscere il
-  codice che ne ha bisogno.
+abstract: Da quando la programmazione a oggetti è diventata di uso comune, gli sviluppatori si sono trovati di fronte a un numero significativo di applicazioni mal progettate, con software inefficienti e difficili da mantenere ed estendere. Per questo, nel corso del tempo, i professionisti più esperti hanno messo a punto un insieme di tecniche di refactoring per migliorare l'integrità strutturale e le prestazioni dei programmi. Pubblicato per la prima volta nel 1999 e ora aggiornato a vent'anni di distanza per riflettere i cambiamenti nel mondo del software, questo manuale è una pietra miliare. L'autore svela i principi e le tecniche fondamentali per trasformare codice scritto male in un programma ben congegnato. Vengono mostrati oltre sessanta metodi di refactoring, corredati da istruzioni passo-passo e indicazioni su quando applicarli. Gli esempi sono basati su JavaScript ma si possono applicare alla maggior parte dei linguaggi di programmazione. Un libro dedicato a tutti gli sviluppatori che vogliono scoprire o approfondire che cosa è il refactoring, perché dovrebbero applicarlo e come riconoscere il codice che ne ha bisogno.
 tags: [ "#v/coding/design" ]
 ---
 # L'arte del refactoring: guida alle tecniche per migliorare il design e la leggibilità del codice
@@ -42,7 +27,7 @@ tags: [ "#v/coding/design" ]
 - write tests first, refactor then
 - make implicit knowledge explicit in the code itself[^explicit-logic]
 - piccoli cambiamenti, test dopo ogni cambiamento rendono più facile il processo di debugging quando serve
-- abbinare il ciclo di feedback loops molto brevi e ravvicinati all'uso di un sistema di versionamento. Fowler parla di piccolo commit in locale e poi combinazioni di commit più consistenti da mandare alla repo condivisa. Come si combinano i commit?
+- abbinare il ciclo di feedback loops molto brevi e ravvicinati all'uso di un sistema di versionamento. Fowler parla di piccolo commit in locale e poi combinazioni di commit più consistenti da mandare alla repo condivisa. Come si combinano i commit?[^squash]
 - automatizzare il refactoring "Extract function"!
 - use variable names that contain information about the type of the variable, especially for function parameters (eg "aPerformance")
 - Replace Temp With Query: this refactoring is used to remove local variables from a function when they can be computed using variables that are already inside the scope rather than passed. We replace the temporary variable with a function call that simply extracts the value and returns it.
@@ -57,6 +42,109 @@ tags: [ "#v/coding/design" ]
 - Most important thing to learn: the refactoring loop is really small and quick. It's important to have tests implemented and to compile-test-commit frequently. This allows to leave the codebase always in a working state - and to stop and resume the work whenever we want!
 
 ## 2. Principi del refactoring
+- Key characteristic of refactoring is it does not change the behaviour of the software it is applied to
+- refactoring is software development in which I never add functionality and only occasionally write tests (to adapt them to new interfaces). "Normal" software development is a process where I write new tests and write new software that pass them, but never change existing software. These two stages are not necessarily separated in time and can be intertwined in a single development session; however, it's useful to always keep in mind what kind of development activity one is doing. 
+- one of the good things we (should try to) obtain with refactoring is removing duplication in code
+- to Fowler, the concept of transferring the understanding of the code into code structure itself is very important. In fact, he finds it is one of the situations and reasons he does refactoring at all.
+- an interesting perspective is that to add new functionality to a codebase it's often the existing code that needs to change and adapt to make the addition easy to do. The major part of the software that gets written or modified could in fact be in the existing part of the codebase, rather than in the new part written to add functionality.
+- La Continuous Integration è un modello di sviluppo alternativo all'uso dei *feature branch*, ossia lo sviluppo di funzionalità separate in diversi rami del codice. Sviluppare in questo modo rende l'integrazione tra i branch e il main particolarmente difficile se ciascuno sviluppatore applica tecniche di refactoring anche semplici come rinominare variabili o cambiare la definizione di funzioni. La CI invece si sposa bene con il refactoring perché è meno dispendioso unire i ppasso di refactoring fatti da diversi membri del team. Extreme Programming = Refactoring + CI
+- Il principio YAGNI si può coniugare con una valutazione euristica molto semplice: se una feature che rende il codice più flessibile, ma non sono certo della sua reale utilità, posso considerare quanto sarebbe semplice introdurre quella maggiore flessibilità con un semplice passo di refactoring più avanti. Nel caso in cui sia semplice, lascio stare e aspetto che mi sia realmente utile (yagni).
+- Il refactoring automatizzato che funziona non lavora sul puro testo ma sull'albero sintattico del codice. Perciò è di solito più affidabile usare IDE che editor di testo per scrivere codice su cui faremo rifattorizzazioni. Comunque, si sono sviluppati strumenti chiamati Language Server che offrono interfacce agli editor di testo per fare refactoring.
 
-[^explicit-logic]: [47a_making_logic_explicit](47a_making_logic_explicit.md)
-[^pandas]: [77_pandas](77_pandas.md)
+## 3. Quando il codice "puzza"
+### Nome misterioso
+- cambiare il nome ad elementi nel codice è una delle rifattorizzazioni più comuni. Non sapere bene che nome dare a un elemento può essere indice di problemi di design più profondi.
+	- Un "buon nome" per una funzione è un nome che permette di non aver bisogno di leggere il suo corpo.
+
+### Codice duplicato
+- il codice duplicato va ovviamente unificato. Ci sono vari casi specifici diversi in cui il codice può essere duplicato (ad es. in due metodi della stessa classe o in metodi di due sottoclassi di una classe base). In alcuni di questi casi esistono rifattorizzazioni specifiche.
+- Se il codice non è esattamente uguale, si può provare a raggruppare il codice uguale (*Slide statement*) per poi estrarlo in una funzione (*Extract function*).
+
+### Funzione lunga
+- Un codice facile da manutenere e di vita lunga è, secondo gli autori, un codice con moltissime funzioni brevi (persino di sole due o una riga). Suggeriscono l'euristica di estrarre una funzione ogni volta che verrebbe di scrivere un commento. Il motivo di questo è che il nome della funzione è esplicativo dell'intento del codice e nasconde il come l'intento è realizzato.
+- *Extract function* è la rifattorizzazione più utile in questi casi. Non si può usare se ci sono molte variabili locali, quindi usare *Replace Temp with Query* se si può. Esistono rifattorizzazioni utili anche per evitare troppi parametri passati a una funzione (*Introduce Parameter Object* e *Preserve Whole Object*).
+- *Replace function with command* può essere usato per semplificare ulteriormente funzioni con molti parametri, sfuttando un design pattern (Command) che permette maggiore flessibilità nella creazione e  gestione delle funzioni.
+- Si possono gestire istruzioni condizionali pesanti con *Replace Conditional with Polymorphism* e *Decompose Conditional*.
+- I cicli dovrebbero andare in una funzione dedicata; se è difficile nominare la funzione forse il ciclo fa due cose diverse (*Split loop*).
+
+### Lista di parametri lunga
+- I parametri flag o che servono a modificare il comportamento di una funzione in base al loro valore possono essere rimossi, creando funzioni diverse per ogni comportamento (*Remove flag Argument*). I parametri di questo tipo rendono più difficile comprendere cosa fa una funzione perché nascondono il suo comportamento in situazioni particolari.
+- Si possonono combinare più funzioni in una classe (*Combine functions into Class*) se hanno un insieme di parametri comuni, che possono diventare campi della classe.
+
+### Dati globali
+- i dati globali dovrebbero essere ridotti quanto più possibile. Quando esistono dovrebbero essere confinati in moduli e classi dove possono essere visti solo dal codice in quel modulo o classe. In ogni caso, è sempre bene incapsularli in una funzione in modo tale da potervi controllare l'accesso.
+
+### Dati mutevoli
+- i dati mutevoli sono uno dei principali problemi dei programmatori. La programmazione funzionale ne fa completamente a meno trattando le variabili come immutabili, ma si può adottare questo approccio con maggiore flessibilità anche con linguaggi non funzionali. 
+- L'obiettivo è avere la minor quantità possibile di variabili modificabili con uno scope ampio. 
+- A questo scopo è sempre opportuno accedere a una variabile tramite una funzione (incapsulamento), se necessario (*Encapsulate Variable*, *Remove Setting Method*, *Replace Derived Variable with Query*).
+- Sono anche preziose e desiderabili le funzioni prive di effetti collaterali (*Separate Query from Modifier*), poiché si possono chiamare da ovunque, spostare in ogni contesto e sono facilmente testabili. Come regola generale, una funzione che restituisce un valore dovrebbe essere priva di effetti collaterali.
+- Si può fare un passo ulteriore al mettere tutte le modifiche ai dati in funzioni, ossia raggruppare funzioni che processano gli stessi dati in input. Questo si può fare in due modi: *Combine Functions into Transform* e *Combine Functions into Class*. La seconda conviene se i dati sorgente vengono modificati in altre parti del codice, poiché le trasformazioni restano sempre coerenti.
+
+### Cambiamento divergente
+- Lo smell cambiamento divergente si ha quando si viola il Single Responsibility Principle. Ogni modulo o classe dovrebbe avere una singola responsabilità. Quando questo può cambiare per più di una ragione si ha cambiamento divergente.
+A questo punto, è probabile che si possa ristrutturare i moduli applicando *Extract Class* se si tratta di classi o *Extract Function* per spostare una funzione da un contesto a un altro.
+		- mi rendo conto di aver bisogno di una comprensione più profonda dei moduli e dei contesti delle funzioni.
+
+### Shotgun surgery
+Quando a seguito di una modifica è necessario apportare tante altre modifiche sparpagliate in diversi contesti della base di codice si è in presenza di Shotgun surgery. Probabilmente, anche in questo caso ci si trova di fronte a responsabilità mal divise, quindi può essere utile usare rifattorizzazioni *inline* (*Inline Function*, *Inline Class*) per poi applicare le inverse *extract-x* raggruppando le funzionalità in maniera più sensata.
+
+### Invidia di funzionalità
+- Un altro caso in cui le responsabilità sono mal divise è quello in cui una funzione di un modulo o metodo di una classe chiama molto spesso funzioni o manipola dati che si trovano in un altro modulo.
+Anche in questo caso ha senso usare rifattorizzazioni che migliorano la divisione in moduli del codice, anche se non sempre le soluzioni sono ovvie e ci sono eccezioni.
+
+### Gruppi di dati
+- Gruppi di dati che appaiono insieme si possono vedere o negli argomenti di una funzione o nei campi di una classe. Quando capita, si possono raggruppare in una classe usando *Extract Class* o *Preserve Whole Object* o *Introduce Parameter Object*.
+- La creazione della classe potrà poi facilitare l'individuazione di metodi che stanno bene insieme a quei dati, portando ad applicare *Move function* e ad avere meno codice duplicato e più chiarezza nella divisione delle responsabilità.
+
+### Ossessione per il primitivo
+- I tipi primitivi sono spesso abusati e, se si è in presenza di dati che hanno un senso intrinseco che il tipo primitivo non può rappresentare appieno, è probabilmente il caso di creare una classe (*Replace Primitive with Object*).
+- Usando questo refactoring si ottiene una possibile catena di rifattorizzazioni molto interessante, ossia *Replace Type Code with Subclasses* e poi *Replace Conditional with Polymorphism*. Ossia, possiamo creare delle sottoclassi se il nostro oggetto ha un campo tipo, in particolare se in base a questo tipo le operazioni fatte sull'oggetto cambiano leggermente.
+
+### Switch ripetuti
+- I puristi dell'OO potrebbero sostituire ogni `switch` o `if` con un polimorfismo. Fowler e Beck suggeriscono di farlo soprattutto se queste condizioni si ripetono più volte nella base di codice, per evitare di dover gestire la modifica dei casi in più posti diversi.
+
+### Cicli
+- Passate al funzionale, applicate *Replace Loop with Pipeline* e usate mappe e filtri invece dei cicli.
+
+### Elemento pigro
+- Semplificare la struttura superflua; applicare *Inline Class*, *Inline Function* o *Collapse Hyerarchy*.
+
+### Generalità speculativa
+- Questo odore è sintomo di YAGNI non applicato. Gerarchie di classi, funzioni delegate e parametri aggiunti in vista di funzionalità mai implementate e quindi inutilizzati dovrebbero essere eliminati con gli opportuni pattern di refactoring.
+
+### Campo temporaneo
+- Caso che non credo mi sia ancora capitato in cui una classe ha dei campi che sono popolati solo alcune volte. In questo caso si può usare *Extract Class* su quei campi e *Move Function* sui metodi che vi operano.
+
+### Catene di messaggi
+- caso in cui un oggetto chiede un altro oggetto per poi chiamare il metodo di un altro oggetto, ecc.
+
+### Intermediario
+- un altro caso di eccessiva intermediazione, simile al precedente. Viene cita il concetto di delega (composizione), contrapposto a quello di ereditarietà.
+
+### Insider training
+- si tratta sempre di accoppiamento dei moduli causato da scambio di dati non chiaro. Lo scambio di dati deve essere sempre esplicito e le parti che interagiscono spesso dovrebbero essere raggruppate.
+
+### Classe grande
+- una classe non dovrebbe avere troppi campi o metodi. Quando accade, è più probabile che si crei codice duplicato. Si può capire quali funzionalità dovrebbero andare insieme guardando i nomi dei metodi (se hanno prefissi simili) o i pattern di chiamata dei clienti (se fanno riferimento spesso allo stesso sottoinsieme di metodi).
+
+### Classi alternative con interfacce diverse
+- bisogna far sì che le classi che dovrebbero essere interscambiabili abbiano interfacce esattamente corrispondenti.
+
+### Classe di dati
+- se una classe ha solo campi e metodi *getter* e *setter* potrebbe essere un segno del fatto che del comportamento può essere spostato dal cliente alla classe. Esistono delle eccezioni, come la struttura dati intermedia in *Split phase*.
+
+### Lascito rifiutato
+- problema che si verifica quando una sottoclasse non utilizza alcuni dei campi o metodi della superclasse. Fowler e Beck sono cauti sul consigliare di ristrutturare la gerarchia in questi casi, ma sostengono si debba sostituire sottoclassi o superclassi con delegati se una sottoclasse viola le interfacce della superclasse.
+
+### Commenti
+- alternative ai commenti: *Extract Function*, *Change Function Declaration*, *Introduce Assertion*.
+- motivi legittimi per cui usare i commenti: far capire che non si è certi di qualcosa che si sta implementando, annotare il motivo di una scelta (come i messaggi di commit su `git`).
+
+
+## 4. Costruire test
+
+
+[^explicit-logic]: [[47a_making_logic_explicit]]
+[^pandas]: [[77_pandas]]
+[^squash]: [[43_git#Squashing]]

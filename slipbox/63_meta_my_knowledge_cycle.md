@@ -39,5 +39,5 @@ Writing digitally with a standard format like Markdown means that repeated tasks
 - make literature notes stubs with abstract instead of downloading paper
 
 [^distill]: [Research Debt](@olah_research_2017.md)
-[^links]: [101_meta_linking_notes](101_meta_linking_notes.md)
+[^links]: [63c_meta_linking_notes](63c_meta_linking_notes.md)
 [^macmahan]: [Creative Destruction The Structural Consequences of Scientific Curation](@mcmahan_creative_2021.md)

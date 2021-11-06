@@ -26,5 +26,7 @@ https://distill.pub/2017/research-debt
  - some ways in which the debt shows itself in the whole community is: poor explanations of research, undigested ideas, bad notation and abstractions, noise.
  - interpretative labor: either on the explainer side or on the learner side
  - much less costly for the community to spend energy explaining than to spend it understanding
- - formalism, explanations, language is "user interface" for ideas
+ - formalism, explanations, language is "user interface" for ideas[^nielsen]
  - research distiller as a proper role in the scientific community
+
+[^nielsen]: [[@nielsen_thought_2016|Thought as a Technology]]

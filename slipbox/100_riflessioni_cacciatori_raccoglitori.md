@@ -1,4 +1,4 @@
-Gli scritti più o meno lunghi sulle società di cacciatori raccoglitori sono di particolare interesse negli ultimi dieci anni[^carli]. Il motivo di questo riscoperto interesse non è solo storico (come siamo arrivati ad essere chi siamo? da dove veniamo?), ma anche antropologico, sociale, economico.
+Gli scritti più o meno lunghi sulle società di cacciatori raccoglitori sono di particolare interesse negli ultimi dieci anni[^carli][^cinini]. Il motivo di questo riscoperto interesse non è solo storico (come siamo arrivati ad essere chi siamo? da dove veniamo?), ma anche antropologico, sociale, economico.
 
 Il discorso conquista l'attenzione di un pubblico generale quando arriva a indicare che le società preistoriche (composte da umani *biologicamente* equivalenti a noi) erano organizzate in modalità differenti dalle nostre, più sostenibili e che lasciavano più spazio alle relazioni sociali e al tempo libero.
 
@@ -7,6 +7,7 @@ Pensare a queste società allora diventa un modo per pensare un'alternativa alla
 Resta tuttavia da sciogliere il nodo su come poter concretamente realizzare un passaggio del genere[^integrazione], in una società industrializzata in cui non possiamo più fare a meno della tecnologia di cui disponiamo - una legge assoluta che regola il rapporto tra l'essere umano e le sue creazioni che ci ha portato fin qui. Uno dei filoni possibili è quello che si può porre sotto il cappello dell'*accelerazionismo*[^guariento], ideologia che (tra le altre cose) sostiene che le conoscienze tecnologiche e scientifiche moderne possano essere utilizzate in società organizzate secondo modelli produttivi diversi da quello attuale.
 
 [^carli]: [@carli_leta_2021](@carli_leta_2021.md)
+[^cinini]: [[@cinini_storie_2021|Le storie della grotta]]
 [^guariento]: [@guariento_dark_2019](@guariento_dark_2019.md)
 [^integrazione]: [20_integrazione_anarchia_centralizzazione](20_integrazione_anarchia_centralizzazione.md)
 [^produzione]: [22_società_preagricole_federazione](22_societ%C3%A0_preagricole_federazione.md)
