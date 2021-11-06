@@ -1,4 +1,0 @@
-# Strutture politiche e giuridiche 
-<p style= "text-align: right"><i>Created 29/09/2021</i></p>
-
-Mi affaccio dalla finestra a Trieste e vedo un'impalcatura per il restauro della facciata di un edificio che promuove un bonus al 90% sulle spese dei lavori. Penso al fatto che questa legge è probabilmente nazionale, è stata pensata centralmente e applicata indistintamente in tutte le regioni italiane. La logica generale secondo cui si fa questo è che il paese è unito aldilà delle differenze regionali e deve prendere una direzione unica e uniforme su alcuni temi. Penso abbia senso avere diversi livelli di governo: da un punto di vista storico e culturale è vero che l'intero paese è unito - ma è anche molto vero che alcune parti del paese sono molto più unite e simili di altre. Quali funzioni politiche, su quali temi, è giusto decidere centralmente e su quali localmente? Qual è l'effetto di mantenere determinate decisioni a determinati livelli?

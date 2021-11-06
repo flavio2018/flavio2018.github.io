@@ -1,9 +1,0 @@
-# Linear Auto-encoders for Sequences
-<p style= "text-align: right"><i>Created 03/11/2021</i></p>
-
-The idea of autoencoders can also be applied to sequences, constructing an hidden representation of a sequence starting from which it can be fully reconstructed. A linear model for this task can be designed as a linear dynamical system, in which the hidden encoding at time t depends on the input at time t and on the previous hidden encoding. This equation allows to fully reconstruct a sequence given it hidden representation up to the current timestep. In the case of linear autoencoders, the parameters matrices in these equation can be analytically determinded computing the SVD of the matrix composed stacking the input sequence at different timesteps, using zeros in the positions where the input is not yet available. The matrices obtained from this operations describe a kind of shift in time of the sequence which is performed passing from one hidden representation to the following one, or viceversa.
-In practice, the SVD can be hard to compute, but ad hoc algorithms exists to compute the decomposition partially, e.g. exploiting the sliced structure of the matrix to be decomposed. The architecture can be modified introducing nonlinearities in the encoding and/or decoding layers, or LSTM or GRU units instead of recurrent ones.
-
-***
-
-Linear Autoencoders for sequences can also be emplyed to pretrain RNNs. Indeed, the process of encoding a sequence is similar to that of constructing the hidden representation of a sequence in an RNN. The idea is thus to train a Linear Autoencoder on the input sequences, and then use the weights matrices in the equation of the dynamical system to initialize the input and hidden connections weights in the RNN. Then, one pass over the input data is performed and the hidden encodings of the sequences are stored. They are then stacked, and exploited to compute the initialization matrix for the output connection.

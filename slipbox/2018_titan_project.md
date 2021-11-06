@@ -1,7 +1,0 @@
-TITAN: Towards Intelligent Tactical Ad-hoc Network
----
-- p.1 The project framework is the effort to design fleets of sensors which can superseed static sensors, given their greater flexibility in the spatial positioning which results in their capability to respond to critical situations more effectively.
-- p.1 The coordination capabilities and long as well as short term decision making strategies of the network can be determined dynamically by machine learning algorithms (→ planning, reasoning). In particular, the learning algorithms should be scalable, hence distributed over the fleet of nodes.
-- p.3 Individual nodes will usually have both individual and collective objectives; how to find a policy that implements a good trade-off between the two is one of the open issues.
-- p.3 Two other aspects of investigation of the projects are the effect of unstable communication between the agents (which depends on the technological medium which would support in reality the communication process) and the applicability of the proposed architecture in realistic scenarios.
-- p.5 The work plan included a first sperimentation in an idealized setting (full-knowledge of the environment), and a subsequent adaptation to more realistic scenarios. One of the outputs of this phase is a set of requirements of the network service in order to guarantee sufficient stability for learning algorithms.

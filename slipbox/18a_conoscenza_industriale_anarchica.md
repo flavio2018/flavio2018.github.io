@@ -1,5 +1,0 @@
-In [18_conoscenza_industriale_anarchica](18_conoscenza_industriale_anarchica.md) ho iniziato un ragionamento su come poter utilizzare l'enorme mole di conoscenza tecnica sviluppata a servizio dell'economia capitalista in altri contesti sociali e produttivi.
-
-Bisogna notare che questa intenzione appartiene a un filone di pratica e pensiero più o meno definito, individuato ad esempio da [@guariento_dark_2019](@guariento_dark_2019.md) come *prometeismo accelerazionista* di sinistra. Da un punto di vista ideologico, che ho cercato di esplicitare anche nella scrittura dei [21_principi_anarchismo](21_principi_anarchismo.md), mi sento più vicino al paradigma della *cosmopolitica decelerazionista*, e forse il mio tentativo di unire i due filoni di pratica e pensiero si può inquadrare proprio nel *dark meshwork* di cui parla Tommaso.
-
-Uno studio recente che può avvicinarsi, nelle intenzioni, a quello di cui ho parlato è [@sutherland_design_2021](@sutherland_design_2021.md).

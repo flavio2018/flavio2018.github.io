@@ -1,3 +1,0 @@
-I modelli probabilistici strutturati sono modelli matematici che hanno l'obiettivo di modellare la conoscenza riguardo un sistema.  
-Questa è intesa in una prospettiva Bayesiana, secondo la quale la certezza sui fatti è modificata da osservazioni empiriche.  
-Formalmente, la certezza viene modificata secondo una struttura di dipendenza tra variabili che descrivono le condizioni del sistema rappresentato.

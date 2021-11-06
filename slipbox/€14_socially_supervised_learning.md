@@ -1,1 +1,0 @@
-A possible way to link the prehistorical and developemental approaches is to design the learning process as a supervised process where feedback is socially provided.

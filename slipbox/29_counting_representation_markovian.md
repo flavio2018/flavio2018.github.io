@@ -1,3 +1,0 @@
-Q-Learning [@watkins_q-learning_1992](@watkins_q-learning_1992.md) is only applicable to Markovian processes, i.e. the ones in which the subsequent state can be fully determined by the current one.
-
-Counting with the aid of an external representation *can be* defined as a Markovian process, provided that the "rules" of any arbitrary syntax to produce symbols to represent numerosity are learned -- which is the hard part.

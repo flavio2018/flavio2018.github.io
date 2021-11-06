@@ -1,3 +1,0 @@
-In una intervista al New York Times, a seguito degli eventi dell'11 Settembre 2001, lo psicologo sociale [Kenneth Gergen](https://en.wikipedia.org/wiki/Kenneth_J._Gergen) sostenne che le notizie, al pari delle Serie TV e degli eventi sportivi, fungessero da «moneta sociale», ossia argomenti di conversazione largamente condivisi dalla popolazione (o almeno da sue grandi parti). 
-
-Egli sostenne che ciò consentisse a una comunità di "tenersi unita": come si può descrivere più dettagliatamente questo processo di coesione sociale? Si può dire che le notizie contribuiscano a creare una "narrazione comune" a cui le persone sentono di appartenere? 
