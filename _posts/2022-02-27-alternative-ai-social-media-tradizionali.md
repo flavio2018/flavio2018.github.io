@@ -1,4 +1,6 @@
-# Note su alternative ai social mainstream
+---
+title: Note su alternative ai social mainstream
+---
 
 ## Problemi con i social media mainstream
 - non danno più né quella sensazione di intimità ("mi legge solo chi voglio"), né di imprevedibilità ("chissà chi mai potrà leggermi")
