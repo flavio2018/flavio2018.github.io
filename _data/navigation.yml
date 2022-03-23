@@ -1,8 +1,4 @@
 - name: Home
   link: /
-- name: Cosa?
-  link: /cosa.html
-- name: Slipbox
-  link: /slipbox/
-- name: Reading
-  link: /now-reading.html
+- name: about
+  link: /about.html
