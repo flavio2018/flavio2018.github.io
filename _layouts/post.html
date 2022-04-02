@@ -23,11 +23,10 @@ layout: default
 
 <div class="post-content">
     <div>
-	<span style="font-family: sans-serif; font-weight: bold;">{{ post.title }}</span>
-	<span style="float: inline-end;">{{ post.date | date_to_string }}</span>
+	<span style="font-family: sans-serif; font-weight: bold;">{{ page.title }}</span>
+	<span style="float: inline-end;">{{ page.date | date_to_string }}</span>
     </div>
     <div>
         {{ content }}
     </div>
-    {% include signature.html %}
 </div>
