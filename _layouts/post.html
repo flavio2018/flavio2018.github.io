@@ -21,11 +21,11 @@ layout: default
 </script>
     
 
-<div class="center">
+<div>
     <div>
-	    <span><h2>{{ page.title }}<h2></span><span>{{ page.date | date_to_string }}</span>
+	    <span>{{ page.title }}</span><span>{{ page.date | date_to_string }}</span>
     </div>
-    <div>
+    <div class="post-content">
         {{ content }}
     </div>
     {% include signature.html %}
