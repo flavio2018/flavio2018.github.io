@@ -22,9 +22,9 @@ layout: default
     
 
 <div>
-    <h2>{{ page.title }}</h2>
-    <p style="text-align: end">{{ page.date | date_to_string }}</p>
-
+    <div>
+	    <span><h2>{{ page.title }}<h2></span><span>{{ page.date | date_to_string }}</span>
+    </div>
     <div>
         {{ content }}
     </div>
