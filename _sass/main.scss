@@ -11,7 +11,6 @@
 .header {
     background-color: #FFFFFF; //#ffffcc; //#ccffcc
     //background-image: url('../../pictures/tile_gy.png');
-    //background-image: url('../../pictures/tree_birds_header.png');
     display: table;
     clear: both;
 }
@@ -30,7 +29,7 @@
     font-size: 300%;
     position: relative;
     bottom: 15%;
-    //text-decoration:none;  // removes underline from link
+    text-decoration: none;  // removes underline from link
 }
 
 .header img {
