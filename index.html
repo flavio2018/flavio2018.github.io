@@ -1,11 +1,16 @@
 ---
-title: Scritti emergenti
+title: ???
 ---
+
+<div class="post-content">
 
 {% for post in site.posts %}
 	<a href={{ post.url }} style="text-decoration: none; font-family: sans-serif;">
-		<span>{{ post.date | date_to_string }}</span>
 		<span style="font-weight: bold;">{{ post.title }}</span>
 	</a>
-    	{{ post.excerpt }}
+    	<span style="float: inline-end;">{{ post.date | date_to_string }}</span>
+	
+	{{ post.excerpt }}
 {% endfor %}
+
+</div>
