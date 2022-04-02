@@ -5,7 +5,7 @@ title: Scritti emergenti
 {% for post in site.posts %}
 	<a href={{ post.url }} text-decoration: none;>
 		<span>{{ post.date | date_to_string }}</span>
-		<span style="bold">{{ post.title }}</span>
+		<span style="font-weight: bold;">{{ post.title }}</span>
 	</a>
     	{{ post.excerpt }}
 {% endfor %}
