@@ -1,5 +1,5 @@
 <header class="center header" >
-    <div id="header-text-column">
+    <div id="header-text-column" class="zoom">
         <nav>
         {% for item in site.data.navigation %}
             <span class="header-button"><a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a></span>
