@@ -53,11 +53,13 @@
 }
 
 #header-text-column {
-    width:60%;
+    width:50%;
+    display: table-cell;
 }
 
 #header-img-column {
-    width:40%;
+    width:50%;
+    display: table-cell;
 }
 
 .post-content {
