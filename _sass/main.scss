@@ -1,3 +1,9 @@
+:root {
+    --main-color: #8d0000; //#003300
+    --secondary-color: #e95e0f; //#009900 
+    --ternary-color: #fab700; //#cccc00
+}
+
 .center {
     margin: auto;
     width: 45%;
@@ -20,9 +26,9 @@
 .header h1 {
 //2px 5.5px #669900, 
     font-family: sans-serif;
-    text-shadow: 1.5px 4.25px #e95e0f, 3px 8px #fab700;
-//1.5px 4.25px #009900, 3px 8px #cccc00;
-    color: #8d0000; //#003300;
+    text-shadow: 1.5px 4.25px var(--secondary-color), 3px 8px var(--ternary-color);
+//1.5px 4.25px ;
+    color: var(--main-color);
     font-size: 300%;
     // position: relative;
     // bottom: 15%;
@@ -77,11 +83,11 @@
 }
 
 .post-content a {
-   color: #8d0000;
+   color: var(--primary-color);
 }
 
 .post-content a:visited {
-   color: #e95e0f;
+   color: var(--secondary-color);
 }
 
 h1 {
