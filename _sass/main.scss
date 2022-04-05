@@ -14,7 +14,7 @@
     background-color: #FFFFFF; //#ffffcc; //#ccffcc
     display: table;
     clear: both;
-    margin-bottom: 2%;
+    margin-bottom: 3%;
 }
 
 .header-button {
@@ -76,6 +76,10 @@
 
 .post-content a:visited {
    color: var(--secondary-color);
+}
+
+.post {
+   margin-bottom: 1.5%;
 }
 
 h1 {
