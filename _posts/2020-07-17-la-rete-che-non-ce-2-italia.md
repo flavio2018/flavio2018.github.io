@@ -1,5 +1,5 @@
 ---
-title: La Rete che non c'è #2
+title: La Rete che non c'è - parte seconda
 ---
 
 Nello scorso articolo ho parlato di come il dibattito sul diritto d'autore e quello sulla privacy siano collegabili osservando le potenzialità creative della Rete. In questo articolo proporrò un punto di vista sul perché entrambi i dibattiti sono stati poco sentiti in Italia e non abbiano contribuito a dare forma all'opinione pubblica riguardo la Rete come strumento creativo e portatore di nuove istanze culturali.

@@ -1,5 +1,5 @@
 ---
-title: La Rete che non c'è #1
+title: La Rete che non c'è - parte prima
 ---
 
 Nel primo decennio del duemila, la grande preoccupazione riguardo il Web era la difesa del diritto d'autore. Dalla diffusione mondiale dei social media, la preoccupazione principale è diventata la tutela della privacy. In questo articolo proverò a mettere in luce come questo cambiamento non sia stato discontinuo, e come queste due preoccupazioni abbiano una radice comune nelle potenzialità del Web di facilitare la creazione e condivisione di opere originali.
