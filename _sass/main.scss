@@ -30,16 +30,17 @@
     height: auto;
 }
 
+.footer div {
+    margin: auto;
+    padding: 10px 10px 10px 10px;
+}
+
 .zoom {
   transition: transform .2s; /* Animation */
 }
 
 .zoom:hover {
   transform: scale(1.1); 
-}
-
-.header div {
-    // float: left;
 }
 
 #header-text-column {
