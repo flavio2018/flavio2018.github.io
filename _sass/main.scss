@@ -67,6 +67,10 @@
    font-family: sans-serif;
 }
 
+.post-content img {
+   max-width:50%;
+}
+
 a {
    color: var(--secondary-color);
 }
