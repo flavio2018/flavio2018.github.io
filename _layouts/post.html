@@ -2,12 +2,15 @@
 layout: default
 ---
 <div class="post-content">
-    <div style="width: 100%;">
-	<div style="font-family: sans-serif; font-weight: bold; font-size: 150%; float: left;width:50%;">{{ page.title }}</div>
-	<div style="text-align:right; font-style:italic; float: right; width:50%;">{{ page.date | date_to_string }}</div>
+    <div style="display: table-row">
+        <div id="post-header-title-column">
+	  <h3>{{ page.title }}</h3>
+	</div>
+	<div id="post-header-date-column">
+	  {{ page.date | date_to_string }}
+	</div>
     </div>
-    <div class="post-separator">
-    </div>
+    <div class="post-separator"></div>
     <div>
         {{ content }}
     </div>

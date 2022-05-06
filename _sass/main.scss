@@ -61,6 +61,20 @@
     display: table-cell;
 }
 
+#post-header-title-column {
+    width:50%;
+    display: table-cell;
+    vertical-align: bottom;
+}
+
+#post-header-date-column {
+    width:50%;
+    display: table-cell;
+    vertical-align: bottom;
+    text-align:right; 
+    font-style:italic;
+}
+
 .post-content {
    font-size: 120%;
    line-height: 130%;
