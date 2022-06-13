@@ -7,11 +7,12 @@ title: Il telaio
 {% for post in site.posts %}
 
 <div class="post">
-	<a href={{ post.url }} style="text-decoration: none; font-family: sans-serif;">
+	<h3> <a href={{ post.url }} style="font-family: sans-serif;">
 		<span style="font-weight: bold;">{{ post.title }}</span>
-	</a>
-	
+		</a></h3>
+	<div>
 	{{ post.excerpt }}
+	</div>
 </div>
 <div class="post-separator">
 </div>
