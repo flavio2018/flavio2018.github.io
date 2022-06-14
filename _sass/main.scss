@@ -94,8 +94,8 @@ a:visited {
 }
 
 .post-separator {
-   margin-top: 10%;
-   margin-bottom: 10%;
+   margin-top: 7%;
+   margin-bottom: 7%;
 }
 
 .about-external-link-icon {
@@ -113,6 +113,11 @@ a:visited {
 
 .icon {
    width: 100%;
+}
+
+#separator-symbol {
+   text-align: center;
+   color: var(--main-color);
 }
 
 h1 {
